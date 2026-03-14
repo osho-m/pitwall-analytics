@@ -136,8 +136,6 @@ gb_dnf.fit(Xtr_d, ytr_d, sample_weight=sample_weights)
 | Chi-square | Team vs podium finish | chi2 = 34.21, p < 0.001 — significant |
 | Spearman correlation | Grid position vs finish position (non-DNF races only) | Strong monotonic relationship |
 
-Note on the Spearman fix: the mask `~df25['dnf']` must be applied to both arrays before passing to `stats.spearmanr`. Using `df25.loc[no_dnf, 'column']` ensures both arrays are the same length (516 rows, excluding DNFs).
-
 ---
 
 ## Clustering - Driver Archetypes
@@ -210,17 +208,6 @@ Notable team changes for 2026:
 - Red Bull switched from Honda to their own RBPT-Ford power unit
 - Alpine switched from Renault to Mercedes customer engine
 
----
-
-## 2025 Season Summary
-
-- Driver Champion: Lando Norris (McLaren) - 393 pts
-- Constructor Champion: McLaren - 773 pts
-- Runner-up driver: Max Verstappen (Red Bull) - 391 pts (margin: 2 points)
-- Most race wins: Norris and Verstappen tied at 8 each; Piastri won 6
-- McLaren won both titles for the first time since 2008
-
----
 
 ## Requirements
 
@@ -251,17 +238,6 @@ jupyter notebook F1_2026_DataScience_Project_v2.ipynb
 
 All CSV files must be in the same directory as the notebook before running.
 
----
-
-## Known Fixes Applied in v2
-
-Two bugs from earlier versions are resolved in this notebook:
-
-1. `GradientBoostingClassifier` TypeError — `class_weight` is not a valid constructor argument for GBC. Fixed by using `compute_sample_weight` and passing `sample_weight` to `.fit()`.
-
-2. `ValueError` in Spearman correlation — mismatched array lengths caused by applying a DNF filter to one array but not the other. Fixed by using `df25.loc[no_dnf, col]` for both inputs.
-
----
 
 ## Dataset on Kaggle
 
