@@ -1,0 +1,529 @@
+season,race_id,round,grand_prix,circuit,city,date,driver,team,nationality,driver_number,grid_position,finish_position,dnf,race_points,sprint_points,total_points_race_weekend,fastest_lap_bonus,has_sprint,pit_stops,lap_time_gap_sec,tyre_compound_primary,weather,air_temp_c,track_temp_c
+2025,R01,1,Australia,Albert Park,Melbourne,2025-03-01,Lando Norris,McLaren,GBR,4,1,1,False,25,0,25,0,False,3,0.0,Medium,Dry,29,49
+2025,R01,1,Australia,Albert Park,Melbourne,2025-03-01,Max Verstappen,Red Bull,NED,1,10,2,False,18,0,18,0,False,3,5.021,Medium,Mixed,32,54
+2025,R01,1,Australia,Albert Park,Melbourne,2025-03-01,Oliver Bearman,Haas,GBR,87,12,3,False,15,0,15,0,False,3,6.518,Hard,Dry,20,29
+2025,R01,1,Australia,Albert Park,Melbourne,2025-03-01,Yuki Tsunoda,Red Bull,JPN,22,7,4,False,12,0,12,0,False,3,1.503,Medium,Mixed,31,42
+2025,R01,1,Australia,Albert Park,Melbourne,2025-03-01,Oscar Piastri,McLaren,AUS,81,2,5,False,10,0,10,0,False,3,0.148,Hard,Dry,24,36
+2025,R01,1,Australia,Albert Park,Melbourne,2025-03-01,Esteban Ocon,Haas,FRA,31,14,6,False,8,0,8,0,False,3,0.359,Medium,Dry,21,26
+2025,R01,1,Australia,Albert Park,Melbourne,2025-03-01,Lewis Hamilton,Ferrari,GBR,44,4,7,False,6,0,6,0,False,3,2.622,Medium,Mixed,29,26
+2025,R01,1,Australia,Albert Park,Melbourne,2025-03-01,Liam Lawson,Racing Bulls,NZL,30,16,8,False,4,0,4,0,False,3,31.842,Medium,Dry,25,45
+2025,R01,1,Australia,Albert Park,Melbourne,2025-03-01,George Russell,Mercedes,GBR,63,21,9,False,2,0,2,0,False,3,4.141,Hard,Mixed,30,33
+2025,R01,1,Australia,Albert Park,Melbourne,2025-03-01,Franco Colapinto,Alpine,ARG,43,7,10,False,1,0,1,0,False,3,2.517,Medium,Dry,25,48
+2025,R01,1,Australia,Albert Park,Melbourne,2025-03-01,Gabriel Bortoleto,Kick Sauber,BRA,5,8,11,False,0,0,0,0,False,3,3.271,Hard,Wet,22,34
+2025,R01,1,Australia,Albert Park,Melbourne,2025-03-01,Fernando Alonso,Aston Martin,ESP,14,7,12,False,0,0,0,0,False,3,1.914,Soft,Dry,18,40
+2025,R01,1,Australia,Albert Park,Melbourne,2025-03-01,Charles Leclerc,Ferrari,MON,16,5,13,False,0,0,0,0,False,3,18.024,Hard,Dry,20,25
+2025,R01,1,Australia,Albert Park,Melbourne,2025-03-01,Nico Hulkenberg,Kick Sauber,GER,27,3,14,False,0,0,0,0,False,3,60.792,Hard,Dry,31,31
+2025,R01,1,Australia,Albert Park,Melbourne,2025-03-01,Jack Doohan,Alpine,AUS,7,10,15,False,0,0,0,0,False,3,22.039,Medium,Dry,24,41
+2025,R01,1,Australia,Albert Park,Melbourne,2025-03-01,Carlos Sainz,Williams,ESP,55,5,16,False,0,0,0,0,False,3,13.124,Medium,Dry,28,53
+2025,R01,1,Australia,Albert Park,Melbourne,2025-03-01,Alex Albon,Williams,THA,23,19,17,False,0,0,0,0,False,3,1.535,Medium,Mixed,30,54
+2025,R01,1,Australia,Albert Park,Melbourne,2025-03-01,Pierre Gasly,Alpine,FRA,10,12,18,False,0,0,0,0,False,3,40.673,Medium,Wet,28,50
+2025,R01,1,Australia,Albert Park,Melbourne,2025-03-01,Isack Hadjar,Racing Bulls,FRA,6,1,19,False,0,0,0,0,False,3,9.022,Medium,Dry,37,37
+2025,R01,1,Australia,Albert Park,Melbourne,2025-03-01,Lance Stroll,Aston Martin,CAN,18,8,20,False,0,0,0,0,False,3,0.147,Hard,Dry,18,43
+2025,R01,1,Australia,Albert Park,Melbourne,2025-03-01,Valtteri Bottas,Kick Sauber,FIN,77,22,21,False,0,0,0,0,False,3,6.087,Medium,Dry,37,41
+2025,R01,1,Australia,Albert Park,Melbourne,2025-03-01,Kimi Antonelli,Mercedes,ITA,12,12,99,True,0,0,0,0,False,2,6.55,Hard,Dry,22,41
+2025,R02,2,China,Shanghai Intl,Shanghai,2025-03-08,Oscar Piastri,McLaren,AUS,81,19,1,False,26,8,34,1,True,2,0.0,Medium,Dry,26,25
+2025,R02,2,China,Shanghai Intl,Shanghai,2025-03-08,Liam Lawson,Racing Bulls,NZL,30,12,2,False,18,0,18,0,True,2,29.639,Hard,Wet,40,33
+2025,R02,2,China,Shanghai Intl,Shanghai,2025-03-08,Fernando Alonso,Aston Martin,ESP,14,14,3,False,15,0,15,0,True,2,2.26,Hard,Dry,33,53
+2025,R02,2,China,Shanghai Intl,Shanghai,2025-03-08,Isack Hadjar,Racing Bulls,FRA,6,2,4,False,12,0,12,0,True,2,8.019,Medium,Dry,32,25
+2025,R02,2,China,Shanghai Intl,Shanghai,2025-03-08,Esteban Ocon,Haas,FRA,31,21,5,False,10,4,14,0,True,2,17.626,Medium,Dry,20,42
+2025,R02,2,China,Shanghai Intl,Shanghai,2025-03-08,Alex Albon,Williams,THA,23,3,6,False,8,0,8,0,True,2,3.607,Medium,Dry,24,49
+2025,R02,2,China,Shanghai Intl,Shanghai,2025-03-08,George Russell,Mercedes,GBR,63,22,7,False,6,5,11,0,True,2,3.798,Medium,Dry,32,46
+2025,R02,2,China,Shanghai Intl,Shanghai,2025-03-08,Kimi Antonelli,Mercedes,ITA,12,19,8,False,4,2,6,0,True,2,19.325,Medium,Dry,22,50
+2025,R02,2,China,Shanghai Intl,Shanghai,2025-03-08,Pierre Gasly,Alpine,FRA,10,19,9,False,2,0,2,0,True,2,10.919,Hard,Dry,31,52
+2025,R02,2,China,Shanghai Intl,Shanghai,2025-03-08,Lewis Hamilton,Ferrari,GBR,44,19,10,False,1,0,1,0,True,2,6.54,Hard,Wet,22,37
+2025,R02,2,China,Shanghai Intl,Shanghai,2025-03-08,Nico Hulkenberg,Kick Sauber,GER,27,14,11,False,0,0,0,0,True,2,3.564,Medium,Dry,20,47
+2025,R02,2,China,Shanghai Intl,Shanghai,2025-03-08,Valtteri Bottas,Kick Sauber,FIN,77,3,12,False,0,0,0,0,True,2,13.066,Soft,Dry,35,41
+2025,R02,2,China,Shanghai Intl,Shanghai,2025-03-08,Oliver Bearman,Haas,GBR,87,14,13,False,0,0,0,0,True,2,7.149,Hard,Dry,32,40
+2025,R02,2,China,Shanghai Intl,Shanghai,2025-03-08,Charles Leclerc,Ferrari,MON,16,12,14,False,0,0,0,0,True,2,19.862,Soft,Wet,31,37
+2025,R02,2,China,Shanghai Intl,Shanghai,2025-03-08,Lance Stroll,Aston Martin,CAN,18,12,15,False,0,5,5,0,True,2,1.55,Hard,Dry,36,31
+2025,R02,2,China,Shanghai Intl,Shanghai,2025-03-08,Lando Norris,McLaren,GBR,4,13,16,False,0,3,3,0,True,2,70.423,Medium,Wet,39,45
+2025,R02,2,China,Shanghai Intl,Shanghai,2025-03-08,Yuki Tsunoda,Red Bull,JPN,22,6,17,False,0,0,0,0,True,2,1.142,Hard,Dry,25,50
+2025,R02,2,China,Shanghai Intl,Shanghai,2025-03-08,Carlos Sainz,Williams,ESP,55,19,18,False,0,1,1,0,True,2,55.955,Hard,Dry,19,34
+2025,R02,2,China,Shanghai Intl,Shanghai,2025-03-08,Franco Colapinto,Alpine,ARG,43,1,19,False,0,0,0,0,True,2,10.974,Medium,Dry,34,29
+2025,R02,2,China,Shanghai Intl,Shanghai,2025-03-08,Max Verstappen,Red Bull,NED,1,2,20,False,0,5,5,0,True,2,0.474,Hard,Wet,35,36
+2025,R02,2,China,Shanghai Intl,Shanghai,2025-03-08,Jack Doohan,Alpine,AUS,7,19,21,False,0,2,2,0,True,2,17.599,Soft,Dry,23,25
+2025,R02,2,China,Shanghai Intl,Shanghai,2025-03-08,Gabriel Bortoleto,Kick Sauber,BRA,5,11,22,False,0,0,0,0,True,2,19.381,Medium,Dry,40,40
+2025,R03,3,Japan,Suzuka,Suzuka,2025-03-15,Max Verstappen,Red Bull,NED,1,5,1,False,25,0,25,0,False,3,0.0,Hard,Dry,19,41
+2025,R03,3,Japan,Suzuka,Suzuka,2025-03-15,Lance Stroll,Aston Martin,CAN,18,9,2,False,18,0,18,0,False,3,6.22,Medium,Dry,39,39
+2025,R03,3,Japan,Suzuka,Suzuka,2025-03-15,Lando Norris,McLaren,GBR,4,16,3,False,15,0,15,0,False,3,1.155,Medium,Dry,18,32
+2025,R03,3,Japan,Suzuka,Suzuka,2025-03-15,Lewis Hamilton,Ferrari,GBR,44,15,4,False,12,0,12,0,False,3,1.64,Hard,Mixed,31,50
+2025,R03,3,Japan,Suzuka,Suzuka,2025-03-15,Valtteri Bottas,Kick Sauber,FIN,77,2,5,False,10,0,10,0,False,3,6.966,Hard,Dry,41,43
+2025,R03,3,Japan,Suzuka,Suzuka,2025-03-15,Nico Hulkenberg,Kick Sauber,GER,27,14,6,False,8,0,8,0,False,3,23.134,Hard,Dry,35,50
+2025,R03,3,Japan,Suzuka,Suzuka,2025-03-15,Kimi Antonelli,Mercedes,ITA,12,5,7,False,6,0,6,0,False,3,5.693,Medium,Dry,34,31
+2025,R03,3,Japan,Suzuka,Suzuka,2025-03-15,Carlos Sainz,Williams,ESP,55,17,8,False,4,0,4,0,False,3,9.341,Medium,Dry,27,27
+2025,R03,3,Japan,Suzuka,Suzuka,2025-03-15,Fernando Alonso,Aston Martin,ESP,14,4,9,False,2,0,2,0,False,3,8.543,Hard,Dry,25,32
+2025,R03,3,Japan,Suzuka,Suzuka,2025-03-15,Liam Lawson,Racing Bulls,NZL,30,9,10,False,1,0,1,0,False,3,1.902,Medium,Wet,19,51
+2025,R03,3,Japan,Suzuka,Suzuka,2025-03-15,Oscar Piastri,McLaren,AUS,81,5,11,False,0,0,0,0,False,3,63.533,Soft,Dry,38,30
+2025,R03,3,Japan,Suzuka,Suzuka,2025-03-15,Jack Doohan,Alpine,AUS,7,11,12,False,0,0,0,0,False,3,10.4,Medium,Wet,41,47
+2025,R03,3,Japan,Suzuka,Suzuka,2025-03-15,Alex Albon,Williams,THA,23,8,13,False,0,0,0,0,False,3,0.865,Hard,Mixed,23,26
+2025,R03,3,Japan,Suzuka,Suzuka,2025-03-15,Charles Leclerc,Ferrari,MON,16,15,14,False,0,0,0,0,False,3,42.519,Soft,Dry,41,30
+2025,R03,3,Japan,Suzuka,Suzuka,2025-03-15,Esteban Ocon,Haas,FRA,31,15,15,False,0,0,0,0,False,3,47.101,Hard,Dry,30,36
+2025,R03,3,Japan,Suzuka,Suzuka,2025-03-15,Gabriel Bortoleto,Kick Sauber,BRA,5,4,16,False,0,0,0,0,False,3,63.581,Medium,Dry,34,36
+2025,R03,3,Japan,Suzuka,Suzuka,2025-03-15,Oliver Bearman,Haas,GBR,87,6,17,False,0,0,0,0,False,3,18.069,Hard,Dry,21,37
+2025,R03,3,Japan,Suzuka,Suzuka,2025-03-15,Franco Colapinto,Alpine,ARG,43,18,18,False,0,0,0,0,False,3,1.055,Hard,Dry,27,36
+2025,R03,3,Japan,Suzuka,Suzuka,2025-03-15,George Russell,Mercedes,GBR,63,20,19,False,0,0,0,0,False,3,23.63,Medium,Dry,34,33
+2025,R03,3,Japan,Suzuka,Suzuka,2025-03-15,Pierre Gasly,Alpine,FRA,10,3,20,False,0,0,0,0,False,3,13.471,Medium,Mixed,29,42
+2025,R03,3,Japan,Suzuka,Suzuka,2025-03-15,Yuki Tsunoda,Red Bull,JPN,22,9,21,False,0,0,0,0,False,3,28.544,Medium,Dry,18,32
+2025,R03,3,Japan,Suzuka,Suzuka,2025-03-15,Isack Hadjar,Racing Bulls,FRA,6,8,22,False,0,0,0,0,False,3,1.102,Soft,Wet,20,45
+2025,R04,4,Bahrain,Bahrain Intl,Sakhir,2025-04-01,Oscar Piastri,McLaren,AUS,81,17,1,False,25,0,25,0,False,3,0.0,Soft,Dry,31,45
+2025,R04,4,Bahrain,Bahrain Intl,Sakhir,2025-04-01,Gabriel Bortoleto,Kick Sauber,BRA,5,19,2,False,18,0,18,0,False,3,5.193,Medium,Dry,36,32
+2025,R04,4,Bahrain,Bahrain Intl,Sakhir,2025-04-01,Lance Stroll,Aston Martin,CAN,18,15,3,False,15,0,15,0,False,3,1.234,Hard,Dry,24,51
+2025,R04,4,Bahrain,Bahrain Intl,Sakhir,2025-04-01,Lando Norris,McLaren,GBR,4,1,4,False,12,0,12,0,False,3,1.323,Hard,Wet,18,54
+2025,R04,4,Bahrain,Bahrain Intl,Sakhir,2025-04-01,Liam Lawson,Racing Bulls,NZL,30,5,5,False,10,0,10,0,False,3,11.509,Soft,Dry,23,37
+2025,R04,4,Bahrain,Bahrain Intl,Sakhir,2025-04-01,Valtteri Bottas,Kick Sauber,FIN,77,20,6,False,8,0,8,0,False,3,19.216,Medium,Wet,22,53
+2025,R04,4,Bahrain,Bahrain Intl,Sakhir,2025-04-01,Charles Leclerc,Ferrari,MON,16,2,7,False,6,0,6,0,False,3,14.411,Medium,Dry,21,28
+2025,R04,4,Bahrain,Bahrain Intl,Sakhir,2025-04-01,Lewis Hamilton,Ferrari,GBR,44,20,8,False,4,0,4,0,False,3,11.138,Medium,Mixed,23,30
+2025,R04,4,Bahrain,Bahrain Intl,Sakhir,2025-04-01,Oliver Bearman,Haas,GBR,87,14,9,False,2,0,2,0,False,3,8.108,Hard,Mixed,25,54
+2025,R04,4,Bahrain,Bahrain Intl,Sakhir,2025-04-01,Kimi Antonelli,Mercedes,ITA,12,8,10,False,1,0,1,0,False,3,4.121,Soft,Mixed,21,40
+2025,R04,4,Bahrain,Bahrain Intl,Sakhir,2025-04-01,Isack Hadjar,Racing Bulls,FRA,6,8,11,False,0,0,0,0,False,3,37.732,Hard,Wet,26,46
+2025,R04,4,Bahrain,Bahrain Intl,Sakhir,2025-04-01,Pierre Gasly,Alpine,FRA,10,9,12,False,0,0,0,0,False,3,1.711,Soft,Dry,31,29
+2025,R04,4,Bahrain,Bahrain Intl,Sakhir,2025-04-01,Max Verstappen,Red Bull,NED,1,22,13,False,0,0,0,0,False,3,29.776,Soft,Dry,39,47
+2025,R04,4,Bahrain,Bahrain Intl,Sakhir,2025-04-01,Yuki Tsunoda,Red Bull,JPN,22,15,14,False,0,0,0,0,False,3,15.963,Medium,Dry,37,49
+2025,R04,4,Bahrain,Bahrain Intl,Sakhir,2025-04-01,Nico Hulkenberg,Kick Sauber,GER,27,20,15,False,0,0,0,0,False,3,7.21,Hard,Mixed,19,31
+2025,R04,4,Bahrain,Bahrain Intl,Sakhir,2025-04-01,Alex Albon,Williams,THA,23,17,16,False,0,0,0,0,False,3,24.708,Hard,Dry,36,46
+2025,R04,4,Bahrain,Bahrain Intl,Sakhir,2025-04-01,Esteban Ocon,Haas,FRA,31,6,17,False,0,0,0,0,False,3,13.216,Medium,Dry,28,46
+2025,R04,4,Bahrain,Bahrain Intl,Sakhir,2025-04-01,George Russell,Mercedes,GBR,63,17,18,False,0,0,0,0,False,3,4.741,Medium,Mixed,34,44
+2025,R04,4,Bahrain,Bahrain Intl,Sakhir,2025-04-01,Fernando Alonso,Aston Martin,ESP,14,8,19,False,0,0,0,0,False,3,1.827,Hard,Dry,30,54
+2025,R04,4,Bahrain,Bahrain Intl,Sakhir,2025-04-01,Franco Colapinto,Alpine,ARG,43,19,20,False,0,0,0,0,False,3,4.976,Medium,Dry,34,37
+2025,R04,4,Bahrain,Bahrain Intl,Sakhir,2025-04-01,Jack Doohan,Alpine,AUS,7,19,21,False,0,0,0,0,False,3,39.391,Medium,Wet,32,42
+2025,R04,4,Bahrain,Bahrain Intl,Sakhir,2025-04-01,Carlos Sainz,Williams,ESP,55,18,22,False,0,0,0,0,False,3,12.997,Hard,Wet,21,25
+2025,R05,5,Saudi Arabia,Jeddah Corniche,Jeddah,2025-04-08,Oscar Piastri,McLaren,AUS,81,8,1,False,25,0,25,0,False,2,0.0,Medium,Wet,20,43
+2025,R05,5,Saudi Arabia,Jeddah Corniche,Jeddah,2025-04-08,Jack Doohan,Alpine,AUS,7,2,2,False,18,0,18,0,False,2,1.443,Soft,Mixed,41,38
+2025,R05,5,Saudi Arabia,Jeddah Corniche,Jeddah,2025-04-08,Esteban Ocon,Haas,FRA,31,5,3,False,15,0,15,0,False,2,3.425,Medium,Dry,40,40
+2025,R05,5,Saudi Arabia,Jeddah Corniche,Jeddah,2025-04-08,George Russell,Mercedes,GBR,63,1,4,False,12,0,12,0,False,2,8.065,Medium,Dry,36,28
+2025,R05,5,Saudi Arabia,Jeddah Corniche,Jeddah,2025-04-08,Yuki Tsunoda,Red Bull,JPN,22,1,5,False,10,0,10,0,False,2,11.19,Soft,Dry,27,26
+2025,R05,5,Saudi Arabia,Jeddah Corniche,Jeddah,2025-04-08,Lewis Hamilton,Ferrari,GBR,44,20,6,False,8,0,8,0,False,2,0.357,Hard,Dry,26,26
+2025,R05,5,Saudi Arabia,Jeddah Corniche,Jeddah,2025-04-08,Alex Albon,Williams,THA,23,22,7,False,6,0,6,0,False,2,2.788,Hard,Dry,41,51
+2025,R05,5,Saudi Arabia,Jeddah Corniche,Jeddah,2025-04-08,Carlos Sainz,Williams,ESP,55,17,8,False,4,0,4,0,False,2,19.607,Hard,Dry,26,32
+2025,R05,5,Saudi Arabia,Jeddah Corniche,Jeddah,2025-04-08,Gabriel Bortoleto,Kick Sauber,BRA,5,9,9,False,2,0,2,0,False,2,6.737,Medium,Wet,21,50
+2025,R05,5,Saudi Arabia,Jeddah Corniche,Jeddah,2025-04-08,Lance Stroll,Aston Martin,CAN,18,5,10,False,1,0,1,0,False,2,2.624,Medium,Mixed,38,34
+2025,R05,5,Saudi Arabia,Jeddah Corniche,Jeddah,2025-04-08,Isack Hadjar,Racing Bulls,FRA,6,17,11,False,0,0,0,0,False,2,4.725,Medium,Dry,29,47
+2025,R05,5,Saudi Arabia,Jeddah Corniche,Jeddah,2025-04-08,Valtteri Bottas,Kick Sauber,FIN,77,6,12,False,0,0,0,0,False,2,2.345,Hard,Dry,30,49
+2025,R05,5,Saudi Arabia,Jeddah Corniche,Jeddah,2025-04-08,Lando Norris,McLaren,GBR,4,17,13,False,0,0,0,0,False,2,13.89,Medium,Dry,31,26
+2025,R05,5,Saudi Arabia,Jeddah Corniche,Jeddah,2025-04-08,Liam Lawson,Racing Bulls,NZL,30,19,14,False,0,0,0,0,False,2,22.84,Medium,Wet,38,35
+2025,R05,5,Saudi Arabia,Jeddah Corniche,Jeddah,2025-04-08,Max Verstappen,Red Bull,NED,1,17,15,False,0,0,0,0,False,2,7.811,Hard,Dry,39,26
+2025,R05,5,Saudi Arabia,Jeddah Corniche,Jeddah,2025-04-08,Fernando Alonso,Aston Martin,ESP,14,22,16,False,0,0,0,0,False,2,56.916,Hard,Dry,21,39
+2025,R05,5,Saudi Arabia,Jeddah Corniche,Jeddah,2025-04-08,Franco Colapinto,Alpine,ARG,43,11,17,False,0,0,0,0,False,2,17.319,Soft,Mixed,28,26
+2025,R05,5,Saudi Arabia,Jeddah Corniche,Jeddah,2025-04-08,Oliver Bearman,Haas,GBR,87,9,18,False,0,0,0,0,False,2,12.746,Medium,Dry,28,32
+2025,R05,5,Saudi Arabia,Jeddah Corniche,Jeddah,2025-04-08,Nico Hulkenberg,Kick Sauber,GER,27,3,19,False,0,0,0,0,False,2,5.794,Medium,Dry,36,54
+2025,R05,5,Saudi Arabia,Jeddah Corniche,Jeddah,2025-04-08,Charles Leclerc,Ferrari,MON,16,5,99,True,0,0,0,0,False,2,2.298,Soft,Mixed,34,34
+2025,R05,5,Saudi Arabia,Jeddah Corniche,Jeddah,2025-04-08,Kimi Antonelli,Mercedes,ITA,12,12,21,False,0,0,0,0,False,2,16.021,Hard,Wet,25,45
+2025,R05,5,Saudi Arabia,Jeddah Corniche,Jeddah,2025-04-08,Pierre Gasly,Alpine,FRA,10,16,22,False,0,0,0,0,False,2,28.797,Soft,Dry,29,39
+2025,R06,6,Miami,Miami Intl Autodrome,Miami,2025-04-15,Oscar Piastri,McLaren,AUS,81,13,1,False,25,8,33,0,True,2,0.0,Hard,Wet,27,36
+2025,R06,6,Miami,Miami Intl Autodrome,Miami,2025-04-15,George Russell,Mercedes,GBR,63,5,2,False,18,6,24,0,True,2,2.902,Hard,Dry,30,38
+2025,R06,6,Miami,Miami Intl Autodrome,Miami,2025-04-15,Pierre Gasly,Alpine,FRA,10,7,3,False,15,0,15,0,True,2,6.009,Soft,Mixed,28,54
+2025,R06,6,Miami,Miami Intl Autodrome,Miami,2025-04-15,Max Verstappen,Red Bull,NED,1,9,4,False,12,0,12,0,True,2,1.96,Soft,Mixed,27,27
+2025,R06,6,Miami,Miami Intl Autodrome,Miami,2025-04-15,Charles Leclerc,Ferrari,MON,16,12,5,False,10,0,10,0,True,2,28.642,Medium,Dry,22,35
+2025,R06,6,Miami,Miami Intl Autodrome,Miami,2025-04-15,Franco Colapinto,Alpine,ARG,43,2,6,False,8,0,8,0,True,2,4.383,Hard,Wet,18,30
+2025,R06,6,Miami,Miami Intl Autodrome,Miami,2025-04-15,Liam Lawson,Racing Bulls,NZL,30,10,7,False,6,0,6,0,True,2,0.334,Medium,Dry,24,42
+2025,R06,6,Miami,Miami Intl Autodrome,Miami,2025-04-15,Jack Doohan,Alpine,AUS,7,10,8,False,4,0,4,0,True,2,17.446,Medium,Wet,32,54
+2025,R06,6,Miami,Miami Intl Autodrome,Miami,2025-04-15,Isack Hadjar,Racing Bulls,FRA,6,12,9,False,2,0,2,0,True,2,14.744,Hard,Dry,29,31
+2025,R06,6,Miami,Miami Intl Autodrome,Miami,2025-04-15,Fernando Alonso,Aston Martin,ESP,14,22,10,False,1,4,5,0,True,2,15.898,Medium,Wet,29,48
+2025,R06,6,Miami,Miami Intl Autodrome,Miami,2025-04-15,Valtteri Bottas,Kick Sauber,FIN,77,18,11,False,0,0,0,0,True,2,18.516,Soft,Dry,25,52
+2025,R06,6,Miami,Miami Intl Autodrome,Miami,2025-04-15,Lewis Hamilton,Ferrari,GBR,44,22,12,False,0,4,4,0,True,2,3.973,Hard,Dry,41,32
+2025,R06,6,Miami,Miami Intl Autodrome,Miami,2025-04-15,Carlos Sainz,Williams,ESP,55,14,13,False,0,0,0,0,True,2,1.769,Medium,Dry,39,52
+2025,R06,6,Miami,Miami Intl Autodrome,Miami,2025-04-15,Oliver Bearman,Haas,GBR,87,10,14,False,0,4,4,0,True,2,29.376,Medium,Dry,28,53
+2025,R06,6,Miami,Miami Intl Autodrome,Miami,2025-04-15,Gabriel Bortoleto,Kick Sauber,BRA,5,3,15,False,0,4,4,0,True,2,27.221,Medium,Dry,31,35
+2025,R06,6,Miami,Miami Intl Autodrome,Miami,2025-04-15,Lando Norris,McLaren,GBR,4,9,16,False,0,0,0,0,True,2,103.609,Hard,Dry,36,27
+2025,R06,6,Miami,Miami Intl Autodrome,Miami,2025-04-15,Kimi Antonelli,Mercedes,ITA,12,9,17,False,0,0,0,0,True,2,13.823,Medium,Dry,21,26
+2025,R06,6,Miami,Miami Intl Autodrome,Miami,2025-04-15,Yuki Tsunoda,Red Bull,JPN,22,5,18,False,0,1,1,0,True,2,3.958,Medium,Dry,39,52
+2025,R06,6,Miami,Miami Intl Autodrome,Miami,2025-04-15,Nico Hulkenberg,Kick Sauber,GER,27,11,19,False,0,1,1,0,True,2,12.385,Soft,Dry,33,34
+2025,R06,6,Miami,Miami Intl Autodrome,Miami,2025-04-15,Lance Stroll,Aston Martin,CAN,18,15,20,False,0,5,5,0,True,2,34.598,Soft,Dry,37,42
+2025,R06,6,Miami,Miami Intl Autodrome,Miami,2025-04-15,Alex Albon,Williams,THA,23,7,21,False,0,0,0,0,True,2,22.165,Hard,Dry,35,47
+2025,R06,6,Miami,Miami Intl Autodrome,Miami,2025-04-15,Esteban Ocon,Haas,FRA,31,10,22,False,0,0,0,0,True,2,64.705,Medium,Dry,25,39
+2025,R07,7,Emilia-Romagna,Autodromo Enzo e Dino Ferrari,Imola,2025-05-01,Oscar Piastri,McLaren,AUS,81,9,1,False,26,0,26,1,False,3,0.0,Medium,Dry,23,38
+2025,R07,7,Emilia-Romagna,Autodromo Enzo e Dino Ferrari,Imola,2025-05-01,Alex Albon,Williams,THA,23,2,2,False,18,0,18,0,False,3,3.059,Hard,Wet,36,37
+2025,R07,7,Emilia-Romagna,Autodromo Enzo e Dino Ferrari,Imola,2025-05-01,Oliver Bearman,Haas,GBR,87,22,3,False,15,0,15,0,False,3,0.867,Hard,Dry,18,36
+2025,R07,7,Emilia-Romagna,Autodromo Enzo e Dino Ferrari,Imola,2025-05-01,Yuki Tsunoda,Red Bull,JPN,22,19,4,False,12,0,12,0,False,3,6.665,Medium,Dry,34,41
+2025,R07,7,Emilia-Romagna,Autodromo Enzo e Dino Ferrari,Imola,2025-05-01,Isack Hadjar,Racing Bulls,FRA,6,11,5,False,10,0,10,0,False,3,0.136,Hard,Dry,27,26
+2025,R07,7,Emilia-Romagna,Autodromo Enzo e Dino Ferrari,Imola,2025-05-01,Kimi Antonelli,Mercedes,ITA,12,8,6,False,8,0,8,0,False,3,4.899,Hard,Dry,38,53
+2025,R07,7,Emilia-Romagna,Autodromo Enzo e Dino Ferrari,Imola,2025-05-01,Valtteri Bottas,Kick Sauber,FIN,77,2,7,False,6,0,6,0,False,3,5.381,Hard,Dry,21,39
+2025,R07,7,Emilia-Romagna,Autodromo Enzo e Dino Ferrari,Imola,2025-05-01,Lewis Hamilton,Ferrari,GBR,44,14,8,False,4,0,4,0,False,3,9.716,Hard,Mixed,30,45
+2025,R07,7,Emilia-Romagna,Autodromo Enzo e Dino Ferrari,Imola,2025-05-01,Nico Hulkenberg,Kick Sauber,GER,27,15,9,False,2,0,2,0,False,3,0.099,Medium,Mixed,21,35
+2025,R07,7,Emilia-Romagna,Autodromo Enzo e Dino Ferrari,Imola,2025-05-01,Max Verstappen,Red Bull,NED,1,13,10,False,1,0,1,0,False,3,3.06,Medium,Dry,21,40
+2025,R07,7,Emilia-Romagna,Autodromo Enzo e Dino Ferrari,Imola,2025-05-01,Esteban Ocon,Haas,FRA,31,15,11,False,0,0,0,0,False,3,16.361,Hard,Dry,27,28
+2025,R07,7,Emilia-Romagna,Autodromo Enzo e Dino Ferrari,Imola,2025-05-01,Franco Colapinto,Alpine,ARG,43,13,12,False,0,0,0,0,False,3,7.938,Medium,Dry,28,31
+2025,R07,7,Emilia-Romagna,Autodromo Enzo e Dino Ferrari,Imola,2025-05-01,Carlos Sainz,Williams,ESP,55,13,13,False,0,0,0,0,False,3,3.265,Medium,Dry,34,34
+2025,R07,7,Emilia-Romagna,Autodromo Enzo e Dino Ferrari,Imola,2025-05-01,Charles Leclerc,Ferrari,MON,16,20,14,False,0,0,0,0,False,3,42.593,Hard,Wet,18,36
+2025,R07,7,Emilia-Romagna,Autodromo Enzo e Dino Ferrari,Imola,2025-05-01,Lance Stroll,Aston Martin,CAN,18,13,15,False,0,0,0,0,False,3,17.821,Hard,Wet,39,52
+2025,R07,7,Emilia-Romagna,Autodromo Enzo e Dino Ferrari,Imola,2025-05-01,Lando Norris,McLaren,GBR,4,10,16,False,0,0,0,0,False,3,4.402,Medium,Dry,27,32
+2025,R07,7,Emilia-Romagna,Autodromo Enzo e Dino Ferrari,Imola,2025-05-01,George Russell,Mercedes,GBR,63,5,17,False,0,0,0,0,False,3,15.582,Medium,Dry,21,52
+2025,R07,7,Emilia-Romagna,Autodromo Enzo e Dino Ferrari,Imola,2025-05-01,Fernando Alonso,Aston Martin,ESP,14,19,18,False,0,0,0,0,False,3,32.876,Hard,Dry,35,29
+2025,R07,7,Emilia-Romagna,Autodromo Enzo e Dino Ferrari,Imola,2025-05-01,Jack Doohan,Alpine,AUS,7,2,19,False,0,0,0,0,False,3,27.343,Hard,Dry,39,40
+2025,R07,7,Emilia-Romagna,Autodromo Enzo e Dino Ferrari,Imola,2025-05-01,Liam Lawson,Racing Bulls,NZL,30,7,20,False,0,0,0,0,False,3,5.527,Hard,Dry,31,37
+2025,R07,7,Emilia-Romagna,Autodromo Enzo e Dino Ferrari,Imola,2025-05-01,Gabriel Bortoleto,Kick Sauber,BRA,5,2,21,False,0,0,0,0,False,3,14.934,Medium,Dry,35,27
+2025,R07,7,Emilia-Romagna,Autodromo Enzo e Dino Ferrari,Imola,2025-05-01,Pierre Gasly,Alpine,FRA,10,9,22,False,0,0,0,0,False,3,13.199,Hard,Mixed,31,43
+2025,R08,8,Monaco,Circuit de Monaco,Monaco,2025-05-08,Max Verstappen,Red Bull,NED,1,12,1,False,25,0,25,0,False,2,0.0,Medium,Dry,23,32
+2025,R08,8,Monaco,Circuit de Monaco,Monaco,2025-05-08,Oscar Piastri,McLaren,AUS,81,3,2,False,18,0,18,0,False,2,4.039,Medium,Dry,29,26
+2025,R08,8,Monaco,Circuit de Monaco,Monaco,2025-05-08,Isack Hadjar,Racing Bulls,FRA,6,20,3,False,15,0,15,0,False,2,36.533,Medium,Dry,21,29
+2025,R08,8,Monaco,Circuit de Monaco,Monaco,2025-05-08,Gabriel Bortoleto,Kick Sauber,BRA,5,16,4,False,12,0,12,0,False,2,9.417,Medium,Dry,40,40
+2025,R08,8,Monaco,Circuit de Monaco,Monaco,2025-05-08,Valtteri Bottas,Kick Sauber,FIN,77,8,5,False,10,0,10,0,False,2,3.29,Hard,Mixed,30,47
+2025,R08,8,Monaco,Circuit de Monaco,Monaco,2025-05-08,Oliver Bearman,Haas,GBR,87,5,6,False,8,0,8,0,False,2,1.696,Hard,Wet,18,49
+2025,R08,8,Monaco,Circuit de Monaco,Monaco,2025-05-08,Franco Colapinto,Alpine,ARG,43,22,7,False,6,0,6,0,False,2,1.097,Medium,Wet,18,45
+2025,R08,8,Monaco,Circuit de Monaco,Monaco,2025-05-08,Liam Lawson,Racing Bulls,NZL,30,2,8,False,4,0,4,0,False,2,18.567,Medium,Dry,40,42
+2025,R08,8,Monaco,Circuit de Monaco,Monaco,2025-05-08,Yuki Tsunoda,Red Bull,JPN,22,2,9,False,2,0,2,0,False,2,6.272,Soft,Dry,28,27
+2025,R08,8,Monaco,Circuit de Monaco,Monaco,2025-05-08,Esteban Ocon,Haas,FRA,31,4,10,False,1,0,1,0,False,2,8.259,Soft,Dry,39,35
+2025,R08,8,Monaco,Circuit de Monaco,Monaco,2025-05-08,Charles Leclerc,Ferrari,MON,16,20,11,False,0,0,0,0,False,2,12.335,Medium,Mixed,27,30
+2025,R08,8,Monaco,Circuit de Monaco,Monaco,2025-05-08,Lance Stroll,Aston Martin,CAN,18,10,12,False,0,0,0,0,False,2,7.446,Soft,Wet,33,31
+2025,R08,8,Monaco,Circuit de Monaco,Monaco,2025-05-08,Lando Norris,McLaren,GBR,4,21,13,False,0,0,0,0,False,2,1.376,Medium,Dry,20,42
+2025,R08,8,Monaco,Circuit de Monaco,Monaco,2025-05-08,Carlos Sainz,Williams,ESP,55,10,14,False,0,0,0,0,False,2,14.511,Soft,Dry,39,25
+2025,R08,8,Monaco,Circuit de Monaco,Monaco,2025-05-08,Pierre Gasly,Alpine,FRA,10,14,15,False,0,0,0,0,False,2,11.864,Soft,Wet,37,27
+2025,R08,8,Monaco,Circuit de Monaco,Monaco,2025-05-08,Jack Doohan,Alpine,AUS,7,13,16,False,0,0,0,0,False,2,32.219,Medium,Dry,19,28
+2025,R08,8,Monaco,Circuit de Monaco,Monaco,2025-05-08,Fernando Alonso,Aston Martin,ESP,14,12,17,False,0,0,0,0,False,2,63.219,Soft,Dry,30,38
+2025,R08,8,Monaco,Circuit de Monaco,Monaco,2025-05-08,Alex Albon,Williams,THA,23,6,18,False,0,0,0,0,False,2,6.451,Medium,Dry,19,52
+2025,R08,8,Monaco,Circuit de Monaco,Monaco,2025-05-08,Kimi Antonelli,Mercedes,ITA,12,5,19,False,0,0,0,0,False,2,10.004,Hard,Dry,19,54
+2025,R08,8,Monaco,Circuit de Monaco,Monaco,2025-05-08,Nico Hulkenberg,Kick Sauber,GER,27,15,20,False,0,0,0,0,False,2,1.257,Soft,Dry,20,45
+2025,R08,8,Monaco,Circuit de Monaco,Monaco,2025-05-08,Lewis Hamilton,Ferrari,GBR,44,19,21,False,0,0,0,0,False,2,7.859,Medium,Dry,18,28
+2025,R08,8,Monaco,Circuit de Monaco,Monaco,2025-05-08,George Russell,Mercedes,GBR,63,5,22,False,0,0,0,0,False,2,5.813,Hard,Dry,37,28
+2025,R09,9,Spain,Circuit de Barcelona-Catalunya,Barcelona,2025-05-15,Oscar Piastri,McLaren,AUS,81,7,1,False,25,0,25,0,False,3,0.0,Hard,Dry,35,37
+2025,R09,9,Spain,Circuit de Barcelona-Catalunya,Barcelona,2025-05-15,George Russell,Mercedes,GBR,63,13,2,False,18,0,18,0,False,3,8.579,Medium,Dry,34,52
+2025,R09,9,Spain,Circuit de Barcelona-Catalunya,Barcelona,2025-05-15,Esteban Ocon,Haas,FRA,31,21,3,False,15,0,15,0,False,3,4.681,Hard,Dry,37,40
+2025,R09,9,Spain,Circuit de Barcelona-Catalunya,Barcelona,2025-05-15,Pierre Gasly,Alpine,FRA,10,9,4,False,12,0,12,0,False,3,5.197,Hard,Wet,27,45
+2025,R09,9,Spain,Circuit de Barcelona-Catalunya,Barcelona,2025-05-15,Lando Norris,McLaren,GBR,4,17,5,False,10,0,10,0,False,3,1.314,Hard,Mixed,19,52
+2025,R09,9,Spain,Circuit de Barcelona-Catalunya,Barcelona,2025-05-15,Gabriel Bortoleto,Kick Sauber,BRA,5,18,6,False,8,0,8,0,False,3,3.36,Medium,Mixed,38,52
+2025,R09,9,Spain,Circuit de Barcelona-Catalunya,Barcelona,2025-05-15,Max Verstappen,Red Bull,NED,1,22,7,False,6,0,6,0,False,3,12.115,Hard,Dry,40,48
+2025,R09,9,Spain,Circuit de Barcelona-Catalunya,Barcelona,2025-05-15,Fernando Alonso,Aston Martin,ESP,14,12,8,False,4,0,4,0,False,3,1.361,Hard,Dry,30,32
+2025,R09,9,Spain,Circuit de Barcelona-Catalunya,Barcelona,2025-05-15,Nico Hulkenberg,Kick Sauber,GER,27,13,9,False,2,0,2,0,False,3,16.48,Soft,Dry,34,29
+2025,R09,9,Spain,Circuit de Barcelona-Catalunya,Barcelona,2025-05-15,Lance Stroll,Aston Martin,CAN,18,14,10,False,1,0,1,0,False,3,6.833,Soft,Mixed,36,31
+2025,R09,9,Spain,Circuit de Barcelona-Catalunya,Barcelona,2025-05-15,Alex Albon,Williams,THA,23,5,11,False,0,0,0,0,False,3,6.466,Hard,Wet,25,34
+2025,R09,9,Spain,Circuit de Barcelona-Catalunya,Barcelona,2025-05-15,Franco Colapinto,Alpine,ARG,43,17,12,False,0,0,0,0,False,3,1.333,Medium,Wet,26,26
+2025,R09,9,Spain,Circuit de Barcelona-Catalunya,Barcelona,2025-05-15,Yuki Tsunoda,Red Bull,JPN,22,4,13,False,0,0,0,0,False,3,0.171,Hard,Wet,26,49
+2025,R09,9,Spain,Circuit de Barcelona-Catalunya,Barcelona,2025-05-15,Jack Doohan,Alpine,AUS,7,18,14,False,0,0,0,0,False,3,0.731,Medium,Dry,25,26
+2025,R09,9,Spain,Circuit de Barcelona-Catalunya,Barcelona,2025-05-15,Liam Lawson,Racing Bulls,NZL,30,16,15,False,0,0,0,0,False,3,15.52,Soft,Dry,28,34
+2025,R09,9,Spain,Circuit de Barcelona-Catalunya,Barcelona,2025-05-15,Isack Hadjar,Racing Bulls,FRA,6,9,16,False,0,0,0,0,False,3,48.626,Medium,Dry,35,46
+2025,R09,9,Spain,Circuit de Barcelona-Catalunya,Barcelona,2025-05-15,Valtteri Bottas,Kick Sauber,FIN,77,12,17,False,0,0,0,0,False,3,50.49,Medium,Wet,41,45
+2025,R09,9,Spain,Circuit de Barcelona-Catalunya,Barcelona,2025-05-15,Charles Leclerc,Ferrari,MON,16,7,18,False,0,0,0,0,False,3,33.556,Soft,Mixed,35,45
+2025,R09,9,Spain,Circuit de Barcelona-Catalunya,Barcelona,2025-05-15,Carlos Sainz,Williams,ESP,55,8,19,False,0,0,0,0,False,3,12.64,Hard,Dry,40,36
+2025,R09,9,Spain,Circuit de Barcelona-Catalunya,Barcelona,2025-05-15,Oliver Bearman,Haas,GBR,87,22,99,True,0,0,0,0,False,3,8.147,Medium,Dry,30,42
+2025,R09,9,Spain,Circuit de Barcelona-Catalunya,Barcelona,2025-05-15,Kimi Antonelli,Mercedes,ITA,12,20,21,False,0,0,0,0,False,3,25.142,Soft,Dry,36,47
+2025,R09,9,Spain,Circuit de Barcelona-Catalunya,Barcelona,2025-05-15,Lewis Hamilton,Ferrari,GBR,44,11,22,False,0,0,0,0,False,3,29.513,Hard,Dry,20,46
+2025,R10,10,Canada,Circuit Gilles Villeneuve,Montreal,2025-06-01,George Russell,Mercedes,GBR,63,7,1,False,25,0,25,0,False,3,0.0,Hard,Dry,33,37
+2025,R10,10,Canada,Circuit Gilles Villeneuve,Montreal,2025-06-01,Valtteri Bottas,Kick Sauber,FIN,77,10,2,False,18,0,18,0,False,3,3.94,Hard,Dry,34,38
+2025,R10,10,Canada,Circuit Gilles Villeneuve,Montreal,2025-06-01,Jack Doohan,Alpine,AUS,7,20,3,False,15,0,15,0,False,3,21.461,Medium,Dry,40,30
+2025,R10,10,Canada,Circuit Gilles Villeneuve,Montreal,2025-06-01,Lewis Hamilton,Ferrari,GBR,44,4,4,False,12,0,12,0,False,3,45.099,Medium,Dry,27,48
+2025,R10,10,Canada,Circuit Gilles Villeneuve,Montreal,2025-06-01,Alex Albon,Williams,THA,23,6,5,False,10,0,10,0,False,3,1.363,Medium,Dry,38,34
+2025,R10,10,Canada,Circuit Gilles Villeneuve,Montreal,2025-06-01,Max Verstappen,Red Bull,NED,1,13,6,False,8,0,8,0,False,3,4.505,Medium,Dry,21,53
+2025,R10,10,Canada,Circuit Gilles Villeneuve,Montreal,2025-06-01,Esteban Ocon,Haas,FRA,31,16,7,False,6,0,6,0,False,3,0.754,Medium,Dry,41,54
+2025,R10,10,Canada,Circuit Gilles Villeneuve,Montreal,2025-06-01,Charles Leclerc,Ferrari,MON,16,19,8,False,4,0,4,0,False,3,11.148,Medium,Wet,34,38
+2025,R10,10,Canada,Circuit Gilles Villeneuve,Montreal,2025-06-01,Isack Hadjar,Racing Bulls,FRA,6,12,9,False,2,0,2,0,False,3,15.55,Hard,Dry,21,43
+2025,R10,10,Canada,Circuit Gilles Villeneuve,Montreal,2025-06-01,Oscar Piastri,McLaren,AUS,81,17,10,False,1,0,1,0,False,3,2.223,Medium,Dry,37,41
+2025,R10,10,Canada,Circuit Gilles Villeneuve,Montreal,2025-06-01,Gabriel Bortoleto,Kick Sauber,BRA,5,11,11,False,0,0,0,0,False,3,19.63,Hard,Dry,18,41
+2025,R10,10,Canada,Circuit Gilles Villeneuve,Montreal,2025-06-01,Lando Norris,McLaren,GBR,4,15,12,False,0,0,0,0,False,3,10.656,Medium,Dry,31,52
+2025,R10,10,Canada,Circuit Gilles Villeneuve,Montreal,2025-06-01,Yuki Tsunoda,Red Bull,JPN,22,16,13,False,0,0,0,0,False,3,13.836,Medium,Dry,27,42
+2025,R10,10,Canada,Circuit Gilles Villeneuve,Montreal,2025-06-01,Fernando Alonso,Aston Martin,ESP,14,22,14,False,0,0,0,0,False,3,20.543,Medium,Dry,30,43
+2025,R10,10,Canada,Circuit Gilles Villeneuve,Montreal,2025-06-01,Nico Hulkenberg,Kick Sauber,GER,27,14,15,False,0,0,0,0,False,3,5.334,Medium,Dry,22,44
+2025,R10,10,Canada,Circuit Gilles Villeneuve,Montreal,2025-06-01,Pierre Gasly,Alpine,FRA,10,5,16,False,0,0,0,0,False,3,11.321,Hard,Dry,24,31
+2025,R10,10,Canada,Circuit Gilles Villeneuve,Montreal,2025-06-01,Oliver Bearman,Haas,GBR,87,4,17,False,0,0,0,0,False,3,11.0,Hard,Dry,29,52
+2025,R10,10,Canada,Circuit Gilles Villeneuve,Montreal,2025-06-01,Carlos Sainz,Williams,ESP,55,4,18,False,0,0,0,0,False,3,50.736,Medium,Dry,27,54
+2025,R10,10,Canada,Circuit Gilles Villeneuve,Montreal,2025-06-01,Lance Stroll,Aston Martin,CAN,18,14,99,True,0,0,0,0,False,2,6.606,Medium,Wet,27,49
+2025,R10,10,Canada,Circuit Gilles Villeneuve,Montreal,2025-06-01,Liam Lawson,Racing Bulls,NZL,30,13,20,False,0,0,0,0,False,3,1.428,Soft,Dry,35,50
+2025,R10,10,Canada,Circuit Gilles Villeneuve,Montreal,2025-06-01,Kimi Antonelli,Mercedes,ITA,12,18,21,False,0,0,0,0,False,3,9.232,Medium,Dry,32,42
+2025,R10,10,Canada,Circuit Gilles Villeneuve,Montreal,2025-06-01,Franco Colapinto,Alpine,ARG,43,15,22,False,0,0,0,0,False,3,17.773,Soft,Dry,29,48
+2025,R11,11,Austria,Red Bull Ring,Spielberg,2025-06-08,Max Verstappen,Red Bull,NED,1,7,1,False,25,0,25,0,False,2,0.0,Hard,Dry,41,53
+2025,R11,11,Austria,Red Bull Ring,Spielberg,2025-06-08,Lance Stroll,Aston Martin,CAN,18,11,2,False,18,0,18,0,False,2,2.745,Medium,Dry,34,26
+2025,R11,11,Austria,Red Bull Ring,Spielberg,2025-06-08,Oscar Piastri,McLaren,AUS,81,1,3,False,15,0,15,0,False,2,4.148,Medium,Dry,39,40
+2025,R11,11,Austria,Red Bull Ring,Spielberg,2025-06-08,Yuki Tsunoda,Red Bull,JPN,22,16,4,False,12,0,12,0,False,2,0.825,Medium,Dry,39,36
+2025,R11,11,Austria,Red Bull Ring,Spielberg,2025-06-08,Lewis Hamilton,Ferrari,GBR,44,10,5,False,10,0,10,0,False,2,6.605,Soft,Wet,34,31
+2025,R11,11,Austria,Red Bull Ring,Spielberg,2025-06-08,Alex Albon,Williams,THA,23,4,6,False,8,0,8,0,False,2,8.072,Hard,Dry,41,32
+2025,R11,11,Austria,Red Bull Ring,Spielberg,2025-06-08,Liam Lawson,Racing Bulls,NZL,30,14,7,False,6,0,6,0,False,2,23.812,Medium,Dry,34,26
+2025,R11,11,Austria,Red Bull Ring,Spielberg,2025-06-08,George Russell,Mercedes,GBR,63,8,8,False,4,0,4,0,False,2,7.599,Medium,Dry,20,30
+2025,R11,11,Austria,Red Bull Ring,Spielberg,2025-06-08,Jack Doohan,Alpine,AUS,7,18,9,False,2,0,2,0,False,2,7.86,Medium,Dry,28,48
+2025,R11,11,Austria,Red Bull Ring,Spielberg,2025-06-08,Esteban Ocon,Haas,FRA,31,9,10,False,1,0,1,0,False,2,1.376,Hard,Dry,40,33
+2025,R11,11,Austria,Red Bull Ring,Spielberg,2025-06-08,Isack Hadjar,Racing Bulls,FRA,6,8,11,False,0,0,0,0,False,2,36.385,Hard,Dry,23,36
+2025,R11,11,Austria,Red Bull Ring,Spielberg,2025-06-08,Gabriel Bortoleto,Kick Sauber,BRA,5,13,12,False,0,0,0,0,False,2,14.776,Soft,Dry,25,30
+2025,R11,11,Austria,Red Bull Ring,Spielberg,2025-06-08,Lando Norris,McLaren,GBR,4,8,13,False,0,0,0,0,False,2,3.68,Soft,Dry,28,29
+2025,R11,11,Austria,Red Bull Ring,Spielberg,2025-06-08,Pierre Gasly,Alpine,FRA,10,22,14,False,0,0,0,0,False,2,16.288,Soft,Dry,28,38
+2025,R11,11,Austria,Red Bull Ring,Spielberg,2025-06-08,Franco Colapinto,Alpine,ARG,43,13,15,False,0,0,0,0,False,2,79.227,Soft,Dry,30,26
+2025,R11,11,Austria,Red Bull Ring,Spielberg,2025-06-08,Nico Hulkenberg,Kick Sauber,GER,27,5,16,False,0,0,0,0,False,2,39.467,Hard,Dry,37,26
+2025,R11,11,Austria,Red Bull Ring,Spielberg,2025-06-08,Kimi Antonelli,Mercedes,ITA,12,3,17,False,0,0,0,0,False,2,9.128,Medium,Wet,37,30
+2025,R11,11,Austria,Red Bull Ring,Spielberg,2025-06-08,Charles Leclerc,Ferrari,MON,16,12,18,False,0,0,0,0,False,2,24.559,Soft,Mixed,29,36
+2025,R11,11,Austria,Red Bull Ring,Spielberg,2025-06-08,Valtteri Bottas,Kick Sauber,FIN,77,22,19,False,0,0,0,0,False,2,6.01,Soft,Dry,33,45
+2025,R11,11,Austria,Red Bull Ring,Spielberg,2025-06-08,Oliver Bearman,Haas,GBR,87,1,20,False,0,0,0,0,False,2,1.926,Medium,Dry,26,43
+2025,R11,11,Austria,Red Bull Ring,Spielberg,2025-06-08,Carlos Sainz,Williams,ESP,55,16,21,False,0,0,0,0,False,2,30.046,Hard,Dry,29,35
+2025,R11,11,Austria,Red Bull Ring,Spielberg,2025-06-08,Fernando Alonso,Aston Martin,ESP,14,1,22,False,0,0,0,0,False,2,6.552,Medium,Dry,19,27
+2025,R12,12,Great Britain,Silverstone,Silverstone,2025-06-15,Nico Hulkenberg,Kick Sauber,GER,27,4,1,False,25,0,25,0,False,3,0.0,Soft,Wet,20,52
+2025,R12,12,Great Britain,Silverstone,Silverstone,2025-06-15,Alex Albon,Williams,THA,23,1,2,False,18,0,18,0,False,3,1.599,Soft,Dry,19,48
+2025,R12,12,Great Britain,Silverstone,Silverstone,2025-06-15,Gabriel Bortoleto,Kick Sauber,BRA,5,21,3,False,15,0,15,0,False,3,1.74,Hard,Dry,31,51
+2025,R12,12,Great Britain,Silverstone,Silverstone,2025-06-15,Isack Hadjar,Racing Bulls,FRA,6,14,4,False,12,0,12,0,False,3,0.345,Soft,Dry,33,49
+2025,R12,12,Great Britain,Silverstone,Silverstone,2025-06-15,Esteban Ocon,Haas,FRA,31,10,5,False,10,0,10,0,False,3,22.215,Hard,Wet,30,31
+2025,R12,12,Great Britain,Silverstone,Silverstone,2025-06-15,George Russell,Mercedes,GBR,63,19,6,False,8,0,8,0,False,3,8.401,Soft,Dry,23,45
+2025,R12,12,Great Britain,Silverstone,Silverstone,2025-06-15,Oliver Bearman,Haas,GBR,87,9,7,False,6,0,6,0,False,3,1.142,Medium,Dry,31,35
+2025,R12,12,Great Britain,Silverstone,Silverstone,2025-06-15,Fernando Alonso,Aston Martin,ESP,14,14,8,False,4,0,4,0,False,3,3.128,Hard,Dry,21,52
+2025,R12,12,Great Britain,Silverstone,Silverstone,2025-06-15,Max Verstappen,Red Bull,NED,1,14,9,False,2,0,2,0,False,3,14.415,Medium,Mixed,40,40
+2025,R12,12,Great Britain,Silverstone,Silverstone,2025-06-15,Yuki Tsunoda,Red Bull,JPN,22,12,10,False,1,0,1,0,False,3,22.053,Hard,Mixed,35,45
+2025,R12,12,Great Britain,Silverstone,Silverstone,2025-06-15,Oscar Piastri,McLaren,AUS,81,20,11,False,0,0,0,0,False,3,0.97,Medium,Dry,38,53
+2025,R12,12,Great Britain,Silverstone,Silverstone,2025-06-15,Valtteri Bottas,Kick Sauber,FIN,77,3,12,False,0,0,0,0,False,3,0.516,Soft,Wet,18,32
+2025,R12,12,Great Britain,Silverstone,Silverstone,2025-06-15,Franco Colapinto,Alpine,ARG,43,12,13,False,0,0,0,0,False,3,9.18,Soft,Dry,32,33
+2025,R12,12,Great Britain,Silverstone,Silverstone,2025-06-15,Jack Doohan,Alpine,AUS,7,22,14,False,0,0,0,0,False,3,3.071,Hard,Dry,37,49
+2025,R12,12,Great Britain,Silverstone,Silverstone,2025-06-15,Lando Norris,McLaren,GBR,4,7,15,False,0,0,0,0,False,3,4.817,Medium,Dry,29,37
+2025,R12,12,Great Britain,Silverstone,Silverstone,2025-06-15,Liam Lawson,Racing Bulls,NZL,30,2,16,False,0,0,0,0,False,3,5.629,Hard,Mixed,25,47
+2025,R12,12,Great Britain,Silverstone,Silverstone,2025-06-15,Charles Leclerc,Ferrari,MON,16,18,17,False,0,0,0,0,False,3,42.545,Medium,Dry,25,43
+2025,R12,12,Great Britain,Silverstone,Silverstone,2025-06-15,Pierre Gasly,Alpine,FRA,10,13,18,False,0,0,0,0,False,3,70.56,Hard,Dry,20,40
+2025,R12,12,Great Britain,Silverstone,Silverstone,2025-06-15,Carlos Sainz,Williams,ESP,55,13,19,False,0,0,0,0,False,3,4.75,Hard,Wet,34,54
+2025,R12,12,Great Britain,Silverstone,Silverstone,2025-06-15,Lewis Hamilton,Ferrari,GBR,44,1,20,False,0,0,0,0,False,3,39.228,Medium,Wet,34,54
+2025,R12,12,Great Britain,Silverstone,Silverstone,2025-06-15,Lance Stroll,Aston Martin,CAN,18,9,21,False,0,0,0,0,False,3,0.987,Medium,Dry,26,41
+2025,R12,12,Great Britain,Silverstone,Silverstone,2025-06-15,Kimi Antonelli,Mercedes,ITA,12,7,22,False,0,0,0,0,False,3,9.47,Hard,Dry,28,38
+2025,R13,13,Hungary,Hungaroring,Budapest,2025-07-01,Lando Norris,McLaren,GBR,4,14,1,False,25,0,25,0,False,3,0.0,Medium,Dry,40,41
+2025,R13,13,Hungary,Hungaroring,Budapest,2025-07-01,Gabriel Bortoleto,Kick Sauber,BRA,5,2,2,False,18,0,18,0,False,3,6.155,Hard,Wet,21,42
+2025,R13,13,Hungary,Hungaroring,Budapest,2025-07-01,Kimi Antonelli,Mercedes,ITA,12,8,3,False,15,0,15,0,False,3,6.138,Hard,Dry,36,39
+2025,R13,13,Hungary,Hungaroring,Budapest,2025-07-01,Oscar Piastri,McLaren,AUS,81,9,4,False,12,0,12,0,False,3,4.279,Hard,Wet,30,34
+2025,R13,13,Hungary,Hungaroring,Budapest,2025-07-01,Lewis Hamilton,Ferrari,GBR,44,9,5,False,10,0,10,0,False,3,1.374,Hard,Wet,37,30
+2025,R13,13,Hungary,Hungaroring,Budapest,2025-07-01,Yuki Tsunoda,Red Bull,JPN,22,6,6,False,8,0,8,0,False,3,23.869,Soft,Mixed,19,41
+2025,R13,13,Hungary,Hungaroring,Budapest,2025-07-01,Nico Hulkenberg,Kick Sauber,GER,27,11,7,False,6,0,6,0,False,3,8.553,Hard,Dry,22,45
+2025,R13,13,Hungary,Hungaroring,Budapest,2025-07-01,George Russell,Mercedes,GBR,63,6,8,False,4,0,4,0,False,3,2.967,Soft,Dry,35,28
+2025,R13,13,Hungary,Hungaroring,Budapest,2025-07-01,Esteban Ocon,Haas,FRA,31,21,9,False,2,0,2,0,False,3,4.213,Soft,Dry,29,26
+2025,R13,13,Hungary,Hungaroring,Budapest,2025-07-01,Carlos Sainz,Williams,ESP,55,12,10,False,1,0,1,0,False,3,8.333,Soft,Dry,25,35
+2025,R13,13,Hungary,Hungaroring,Budapest,2025-07-01,Valtteri Bottas,Kick Sauber,FIN,77,22,11,False,0,0,0,0,False,3,6.844,Hard,Dry,24,26
+2025,R13,13,Hungary,Hungaroring,Budapest,2025-07-01,Lance Stroll,Aston Martin,CAN,18,4,12,False,0,0,0,0,False,3,8.752,Medium,Wet,32,44
+2025,R13,13,Hungary,Hungaroring,Budapest,2025-07-01,Oliver Bearman,Haas,GBR,87,18,13,False,0,0,0,0,False,3,11.877,Hard,Dry,28,41
+2025,R13,13,Hungary,Hungaroring,Budapest,2025-07-01,Charles Leclerc,Ferrari,MON,16,8,14,False,0,0,0,0,False,3,32.025,Medium,Dry,29,30
+2025,R13,13,Hungary,Hungaroring,Budapest,2025-07-01,Liam Lawson,Racing Bulls,NZL,30,13,15,False,0,0,0,0,False,3,20.715,Soft,Dry,41,51
+2025,R13,13,Hungary,Hungaroring,Budapest,2025-07-01,Pierre Gasly,Alpine,FRA,10,14,16,False,0,0,0,0,False,3,2.696,Medium,Dry,27,43
+2025,R13,13,Hungary,Hungaroring,Budapest,2025-07-01,Max Verstappen,Red Bull,NED,1,15,99,True,0,0,0,0,False,1,27.04,Medium,Mixed,22,34
+2025,R13,13,Hungary,Hungaroring,Budapest,2025-07-01,Jack Doohan,Alpine,AUS,7,6,18,False,0,0,0,0,False,3,12.737,Hard,Wet,34,53
+2025,R13,13,Hungary,Hungaroring,Budapest,2025-07-01,Fernando Alonso,Aston Martin,ESP,14,20,19,False,0,0,0,0,False,3,66.511,Medium,Mixed,39,28
+2025,R13,13,Hungary,Hungaroring,Budapest,2025-07-01,Alex Albon,Williams,THA,23,13,20,False,0,0,0,0,False,3,13.725,Hard,Wet,40,43
+2025,R13,13,Hungary,Hungaroring,Budapest,2025-07-01,Isack Hadjar,Racing Bulls,FRA,6,13,21,False,0,0,0,0,False,3,38.131,Medium,Dry,31,36
+2025,R13,13,Hungary,Hungaroring,Budapest,2025-07-01,Franco Colapinto,Alpine,ARG,43,4,22,False,0,0,0,0,False,3,39.716,Medium,Dry,41,53
+2025,R14,14,Belgium,Circuit de Spa-Francorchamps,Spa,2025-07-08,Max Verstappen,Red Bull,NED,1,19,1,False,25,8,33,0,True,2,0.0,Hard,Mixed,29,44
+2025,R14,14,Belgium,Circuit de Spa-Francorchamps,Spa,2025-07-08,Yuki Tsunoda,Red Bull,JPN,22,7,2,False,18,7,25,0,True,2,4.748,Soft,Dry,26,32
+2025,R14,14,Belgium,Circuit de Spa-Francorchamps,Spa,2025-07-08,Kimi Antonelli,Mercedes,ITA,12,21,3,False,15,0,15,0,True,2,0.977,Medium,Wet,41,27
+2025,R14,14,Belgium,Circuit de Spa-Francorchamps,Spa,2025-07-08,Nico Hulkenberg,Kick Sauber,GER,27,1,4,False,12,0,12,0,True,2,8.64,Soft,Dry,25,47
+2025,R14,14,Belgium,Circuit de Spa-Francorchamps,Spa,2025-07-08,Esteban Ocon,Haas,FRA,31,13,5,False,10,1,11,0,True,2,1.442,Hard,Dry,19,31
+2025,R14,14,Belgium,Circuit de Spa-Francorchamps,Spa,2025-07-08,Carlos Sainz,Williams,ESP,55,10,6,False,8,2,10,0,True,2,6.119,Soft,Dry,37,42
+2025,R14,14,Belgium,Circuit de Spa-Francorchamps,Spa,2025-07-08,Liam Lawson,Racing Bulls,NZL,30,17,7,False,6,0,6,0,True,2,1.22,Hard,Dry,39,30
+2025,R14,14,Belgium,Circuit de Spa-Francorchamps,Spa,2025-07-08,Gabriel Bortoleto,Kick Sauber,BRA,5,19,8,False,4,0,4,0,True,2,34.911,Soft,Dry,29,43
+2025,R14,14,Belgium,Circuit de Spa-Francorchamps,Spa,2025-07-08,Fernando Alonso,Aston Martin,ESP,14,17,9,False,2,0,2,0,True,2,98.567,Medium,Mixed,26,27
+2025,R14,14,Belgium,Circuit de Spa-Francorchamps,Spa,2025-07-08,Lewis Hamilton,Ferrari,GBR,44,13,10,False,1,0,1,0,True,2,22.166,Medium,Dry,25,31
+2025,R14,14,Belgium,Circuit de Spa-Francorchamps,Spa,2025-07-08,Pierre Gasly,Alpine,FRA,10,13,11,False,0,0,0,0,True,2,17.187,Medium,Dry,39,41
+2025,R14,14,Belgium,Circuit de Spa-Francorchamps,Spa,2025-07-08,Oliver Bearman,Haas,GBR,87,17,12,False,0,0,0,0,True,2,4.834,Hard,Mixed,39,45
+2025,R14,14,Belgium,Circuit de Spa-Francorchamps,Spa,2025-07-08,Franco Colapinto,Alpine,ARG,43,19,13,False,0,0,0,0,True,2,34.479,Medium,Wet,18,47
+2025,R14,14,Belgium,Circuit de Spa-Francorchamps,Spa,2025-07-08,Lando Norris,McLaren,GBR,4,22,14,False,0,1,1,0,True,2,14.049,Medium,Dry,29,31
+2025,R14,14,Belgium,Circuit de Spa-Francorchamps,Spa,2025-07-08,Valtteri Bottas,Kick Sauber,FIN,77,18,15,False,0,0,0,0,True,2,21.86,Hard,Mixed,37,44
+2025,R14,14,Belgium,Circuit de Spa-Francorchamps,Spa,2025-07-08,Jack Doohan,Alpine,AUS,7,6,16,False,0,0,0,0,True,2,0.829,Medium,Dry,28,36
+2025,R14,14,Belgium,Circuit de Spa-Francorchamps,Spa,2025-07-08,George Russell,Mercedes,GBR,63,19,17,False,0,0,0,0,True,2,11.005,Medium,Dry,35,50
+2025,R14,14,Belgium,Circuit de Spa-Francorchamps,Spa,2025-07-08,Isack Hadjar,Racing Bulls,FRA,6,18,99,True,0,0,0,0,True,2,3.521,Soft,Dry,22,34
+2025,R14,14,Belgium,Circuit de Spa-Francorchamps,Spa,2025-07-08,Oscar Piastri,McLaren,AUS,81,2,19,False,0,0,0,0,True,2,10.388,Soft,Dry,24,41
+2025,R14,14,Belgium,Circuit de Spa-Francorchamps,Spa,2025-07-08,Lance Stroll,Aston Martin,CAN,18,20,20,False,0,0,0,0,True,2,44.319,Medium,Dry,28,33
+2025,R14,14,Belgium,Circuit de Spa-Francorchamps,Spa,2025-07-08,Alex Albon,Williams,THA,23,8,99,True,0,0,0,0,True,1,50.907,Medium,Wet,27,44
+2025,R14,14,Belgium,Circuit de Spa-Francorchamps,Spa,2025-07-08,Charles Leclerc,Ferrari,MON,16,10,22,False,0,0,0,0,True,2,29.012,Soft,Dry,34,47
+2025,R15,15,Netherlands,Circuit Zandvoort,Zandvoort,2025-07-15,Max Verstappen,Red Bull,NED,1,12,1,False,25,0,25,0,False,3,0.0,Medium,Dry,32,33
+2025,R15,15,Netherlands,Circuit Zandvoort,Zandvoort,2025-07-15,George Russell,Mercedes,GBR,63,18,2,False,18,0,18,0,False,3,2.914,Soft,Wet,33,51
+2025,R15,15,Netherlands,Circuit Zandvoort,Zandvoort,2025-07-15,Pierre Gasly,Alpine,FRA,10,16,3,False,15,0,15,0,False,3,0.906,Soft,Wet,24,40
+2025,R15,15,Netherlands,Circuit Zandvoort,Zandvoort,2025-07-15,Charles Leclerc,Ferrari,MON,16,21,4,False,12,0,12,0,False,3,4.017,Medium,Dry,40,34
+2025,R15,15,Netherlands,Circuit Zandvoort,Zandvoort,2025-07-15,Lando Norris,McLaren,GBR,4,9,5,False,10,0,10,0,False,3,1.683,Medium,Dry,39,49
+2025,R15,15,Netherlands,Circuit Zandvoort,Zandvoort,2025-07-15,Nico Hulkenberg,Kick Sauber,GER,27,15,6,False,8,0,8,0,False,3,30.562,Hard,Wet,23,41
+2025,R15,15,Netherlands,Circuit Zandvoort,Zandvoort,2025-07-15,Isack Hadjar,Racing Bulls,FRA,6,4,7,False,6,0,6,0,False,3,7.999,Soft,Dry,19,32
+2025,R15,15,Netherlands,Circuit Zandvoort,Zandvoort,2025-07-15,Kimi Antonelli,Mercedes,ITA,12,6,8,False,4,0,4,0,False,3,1.26,Soft,Dry,24,53
+2025,R15,15,Netherlands,Circuit Zandvoort,Zandvoort,2025-07-15,Oscar Piastri,McLaren,AUS,81,9,9,False,2,0,2,0,False,3,4.19,Medium,Dry,23,44
+2025,R15,15,Netherlands,Circuit Zandvoort,Zandvoort,2025-07-15,Fernando Alonso,Aston Martin,ESP,14,17,10,False,1,0,1,0,False,3,27.055,Hard,Dry,40,25
+2025,R15,15,Netherlands,Circuit Zandvoort,Zandvoort,2025-07-15,Oliver Bearman,Haas,GBR,87,4,11,False,0,0,0,0,False,3,9.719,Hard,Dry,35,41
+2025,R15,15,Netherlands,Circuit Zandvoort,Zandvoort,2025-07-15,Lance Stroll,Aston Martin,CAN,18,8,12,False,0,0,0,0,False,3,28.389,Hard,Dry,19,53
+2025,R15,15,Netherlands,Circuit Zandvoort,Zandvoort,2025-07-15,Lewis Hamilton,Ferrari,GBR,44,19,13,False,0,0,0,0,False,3,13.352,Hard,Dry,25,43
+2025,R15,15,Netherlands,Circuit Zandvoort,Zandvoort,2025-07-15,Liam Lawson,Racing Bulls,NZL,30,16,14,False,0,0,0,0,False,3,6.298,Soft,Dry,20,43
+2025,R15,15,Netherlands,Circuit Zandvoort,Zandvoort,2025-07-15,Yuki Tsunoda,Red Bull,JPN,22,10,15,False,0,0,0,0,False,3,2.51,Soft,Dry,29,47
+2025,R15,15,Netherlands,Circuit Zandvoort,Zandvoort,2025-07-15,Franco Colapinto,Alpine,ARG,43,5,16,False,0,0,0,0,False,3,31.313,Medium,Dry,40,27
+2025,R15,15,Netherlands,Circuit Zandvoort,Zandvoort,2025-07-15,Gabriel Bortoleto,Kick Sauber,BRA,5,19,17,False,0,0,0,0,False,3,76.863,Medium,Dry,18,41
+2025,R15,15,Netherlands,Circuit Zandvoort,Zandvoort,2025-07-15,Esteban Ocon,Haas,FRA,31,5,99,True,0,0,0,0,False,3,9.822,Medium,Mixed,22,49
+2025,R15,15,Netherlands,Circuit Zandvoort,Zandvoort,2025-07-15,Carlos Sainz,Williams,ESP,55,1,19,False,0,0,0,0,False,3,19.049,Medium,Dry,36,46
+2025,R15,15,Netherlands,Circuit Zandvoort,Zandvoort,2025-07-15,Alex Albon,Williams,THA,23,15,20,False,0,0,0,0,False,3,1.23,Medium,Mixed,37,46
+2025,R15,15,Netherlands,Circuit Zandvoort,Zandvoort,2025-07-15,Valtteri Bottas,Kick Sauber,FIN,77,19,21,False,0,0,0,0,False,3,2.686,Hard,Dry,37,53
+2025,R15,15,Netherlands,Circuit Zandvoort,Zandvoort,2025-07-15,Jack Doohan,Alpine,AUS,7,9,22,False,0,0,0,0,False,3,63.394,Soft,Dry,27,41
+2025,R16,16,Italy,Autodromo Nazionale Monza,Monza,2025-08-01,Lando Norris,McLaren,GBR,4,6,1,False,25,0,25,0,False,2,0.0,Soft,Dry,24,51
+2025,R16,16,Italy,Autodromo Nazionale Monza,Monza,2025-08-01,Fernando Alonso,Aston Martin,ESP,14,9,2,False,18,0,18,0,False,2,16.046,Medium,Dry,37,27
+2025,R16,16,Italy,Autodromo Nazionale Monza,Monza,2025-08-01,Gabriel Bortoleto,Kick Sauber,BRA,5,2,3,False,15,0,15,0,False,2,2.105,Hard,Dry,27,33
+2025,R16,16,Italy,Autodromo Nazionale Monza,Monza,2025-08-01,Alex Albon,Williams,THA,23,9,4,False,12,0,12,0,False,2,7.572,Hard,Dry,19,53
+2025,R16,16,Italy,Autodromo Nazionale Monza,Monza,2025-08-01,Lance Stroll,Aston Martin,CAN,18,10,5,False,10,0,10,0,False,2,1.145,Hard,Dry,36,40
+2025,R16,16,Italy,Autodromo Nazionale Monza,Monza,2025-08-01,Valtteri Bottas,Kick Sauber,FIN,77,4,6,False,8,0,8,0,False,2,15.175,Hard,Dry,18,41
+2025,R16,16,Italy,Autodromo Nazionale Monza,Monza,2025-08-01,Yuki Tsunoda,Red Bull,JPN,22,9,7,False,6,0,6,0,False,2,30.97,Hard,Mixed,21,33
+2025,R16,16,Italy,Autodromo Nazionale Monza,Monza,2025-08-01,Pierre Gasly,Alpine,FRA,10,6,8,False,4,0,4,0,False,2,2.546,Soft,Dry,35,51
+2025,R16,16,Italy,Autodromo Nazionale Monza,Monza,2025-08-01,Charles Leclerc,Ferrari,MON,16,21,9,False,2,0,2,0,False,2,1.271,Soft,Dry,32,28
+2025,R16,16,Italy,Autodromo Nazionale Monza,Monza,2025-08-01,Kimi Antonelli,Mercedes,ITA,12,19,10,False,1,0,1,0,False,2,17.91,Hard,Dry,26,34
+2025,R16,16,Italy,Autodromo Nazionale Monza,Monza,2025-08-01,Liam Lawson,Racing Bulls,NZL,30,7,11,False,0,0,0,0,False,2,3.367,Medium,Wet,37,39
+2025,R16,16,Italy,Autodromo Nazionale Monza,Monza,2025-08-01,Isack Hadjar,Racing Bulls,FRA,6,14,12,False,0,0,0,0,False,2,6.84,Medium,Dry,25,35
+2025,R16,16,Italy,Autodromo Nazionale Monza,Monza,2025-08-01,Max Verstappen,Red Bull,NED,1,1,13,False,0,0,0,0,False,2,21.52,Hard,Dry,33,47
+2025,R16,16,Italy,Autodromo Nazionale Monza,Monza,2025-08-01,Oliver Bearman,Haas,GBR,87,19,14,False,0,0,0,0,False,2,27.882,Hard,Dry,41,38
+2025,R16,16,Italy,Autodromo Nazionale Monza,Monza,2025-08-01,George Russell,Mercedes,GBR,63,14,15,False,0,0,0,0,False,2,12.809,Medium,Wet,34,33
+2025,R16,16,Italy,Autodromo Nazionale Monza,Monza,2025-08-01,Nico Hulkenberg,Kick Sauber,GER,27,7,16,False,0,0,0,0,False,2,29.705,Medium,Dry,39,29
+2025,R16,16,Italy,Autodromo Nazionale Monza,Monza,2025-08-01,Jack Doohan,Alpine,AUS,7,21,17,False,0,0,0,0,False,2,29.661,Medium,Wet,23,50
+2025,R16,16,Italy,Autodromo Nazionale Monza,Monza,2025-08-01,Franco Colapinto,Alpine,ARG,43,11,18,False,0,0,0,0,False,2,15.182,Soft,Dry,19,46
+2025,R16,16,Italy,Autodromo Nazionale Monza,Monza,2025-08-01,Esteban Ocon,Haas,FRA,31,13,19,False,0,0,0,0,False,2,18.706,Medium,Dry,28,46
+2025,R16,16,Italy,Autodromo Nazionale Monza,Monza,2025-08-01,Carlos Sainz,Williams,ESP,55,1,99,True,0,0,0,0,False,1,4.979,Hard,Dry,18,30
+2025,R16,16,Italy,Autodromo Nazionale Monza,Monza,2025-08-01,Lewis Hamilton,Ferrari,GBR,44,5,21,False,0,0,0,0,False,2,3.804,Hard,Mixed,35,31
+2025,R16,16,Italy,Autodromo Nazionale Monza,Monza,2025-08-01,Oscar Piastri,McLaren,AUS,81,19,22,False,0,0,0,0,False,2,39.168,Medium,Dry,21,36
+2025,R17,17,Azerbaijan,Baku City Circuit,Baku,2025-08-08,Lando Norris,McLaren,GBR,4,22,1,False,26,0,26,1,False,3,0.0,Hard,Wet,29,47
+2025,R17,17,Azerbaijan,Baku City Circuit,Baku,2025-08-08,Yuki Tsunoda,Red Bull,JPN,22,22,2,False,18,0,18,0,False,3,2.84,Medium,Dry,40,37
+2025,R17,17,Azerbaijan,Baku City Circuit,Baku,2025-08-08,Lewis Hamilton,Ferrari,GBR,44,16,3,False,15,0,15,0,False,3,3.287,Medium,Dry,25,45
+2025,R17,17,Azerbaijan,Baku City Circuit,Baku,2025-08-08,Charles Leclerc,Ferrari,MON,16,18,4,False,12,0,12,0,False,3,10.6,Medium,Dry,34,54
+2025,R17,17,Azerbaijan,Baku City Circuit,Baku,2025-08-08,Oscar Piastri,McLaren,AUS,81,14,5,False,10,0,10,0,False,3,20.363,Medium,Dry,36,28
+2025,R17,17,Azerbaijan,Baku City Circuit,Baku,2025-08-08,Pierre Gasly,Alpine,FRA,10,11,6,False,8,0,8,0,False,3,2.442,Medium,Dry,39,43
+2025,R17,17,Azerbaijan,Baku City Circuit,Baku,2025-08-08,Isack Hadjar,Racing Bulls,FRA,6,8,7,False,6,0,6,0,False,3,15.567,Soft,Dry,18,54
+2025,R17,17,Azerbaijan,Baku City Circuit,Baku,2025-08-08,Gabriel Bortoleto,Kick Sauber,BRA,5,8,8,False,4,0,4,0,False,3,13.848,Hard,Dry,35,26
+2025,R17,17,Azerbaijan,Baku City Circuit,Baku,2025-08-08,Esteban Ocon,Haas,FRA,31,2,9,False,2,0,2,0,False,3,26.74,Medium,Mixed,33,41
+2025,R17,17,Azerbaijan,Baku City Circuit,Baku,2025-08-08,Franco Colapinto,Alpine,ARG,43,7,10,False,1,0,1,0,False,3,37.69,Medium,Dry,24,37
+2025,R17,17,Azerbaijan,Baku City Circuit,Baku,2025-08-08,Kimi Antonelli,Mercedes,ITA,12,7,11,False,0,0,0,0,False,3,33.347,Hard,Mixed,18,41
+2025,R17,17,Azerbaijan,Baku City Circuit,Baku,2025-08-08,Liam Lawson,Racing Bulls,NZL,30,3,12,False,0,0,0,0,False,3,30.266,Hard,Dry,33,49
+2025,R17,17,Azerbaijan,Baku City Circuit,Baku,2025-08-08,Lance Stroll,Aston Martin,CAN,18,1,13,False,0,0,0,0,False,3,19.488,Hard,Wet,26,43
+2025,R17,17,Azerbaijan,Baku City Circuit,Baku,2025-08-08,Max Verstappen,Red Bull,NED,1,7,14,False,0,0,0,0,False,3,5.732,Hard,Dry,19,33
+2025,R17,17,Azerbaijan,Baku City Circuit,Baku,2025-08-08,Jack Doohan,Alpine,AUS,7,21,15,False,0,0,0,0,False,3,11.159,Medium,Dry,35,43
+2025,R17,17,Azerbaijan,Baku City Circuit,Baku,2025-08-08,Oliver Bearman,Haas,GBR,87,8,16,False,0,0,0,0,False,3,4.307,Soft,Dry,25,28
+2025,R17,17,Azerbaijan,Baku City Circuit,Baku,2025-08-08,George Russell,Mercedes,GBR,63,17,17,False,0,0,0,0,False,3,15.11,Medium,Dry,30,46
+2025,R17,17,Azerbaijan,Baku City Circuit,Baku,2025-08-08,Carlos Sainz,Williams,ESP,55,10,18,False,0,0,0,0,False,3,116.414,Medium,Dry,39,38
+2025,R17,17,Azerbaijan,Baku City Circuit,Baku,2025-08-08,Fernando Alonso,Aston Martin,ESP,14,4,19,False,0,0,0,0,False,3,1.458,Hard,Dry,28,51
+2025,R17,17,Azerbaijan,Baku City Circuit,Baku,2025-08-08,Alex Albon,Williams,THA,23,17,20,False,0,0,0,0,False,3,37.594,Medium,Dry,19,53
+2025,R17,17,Azerbaijan,Baku City Circuit,Baku,2025-08-08,Valtteri Bottas,Kick Sauber,FIN,77,4,21,False,0,0,0,0,False,3,1.085,Hard,Dry,22,40
+2025,R17,17,Azerbaijan,Baku City Circuit,Baku,2025-08-08,Nico Hulkenberg,Kick Sauber,GER,27,20,22,False,0,0,0,0,False,3,36.329,Medium,Dry,29,53
+2025,R18,18,Singapore,Marina Bay,Singapore,2025-08-15,George Russell,Mercedes,GBR,63,8,1,False,26,0,26,1,False,2,0.0,Hard,Dry,30,51
+2025,R18,18,Singapore,Marina Bay,Singapore,2025-08-15,Fernando Alonso,Aston Martin,ESP,14,10,2,False,18,0,18,0,False,2,10.768,Hard,Dry,34,50
+2025,R18,18,Singapore,Marina Bay,Singapore,2025-08-15,Lando Norris,McLaren,GBR,4,18,3,False,15,0,15,0,False,2,3.265,Soft,Dry,23,49
+2025,R18,18,Singapore,Marina Bay,Singapore,2025-08-15,Pierre Gasly,Alpine,FRA,10,1,4,False,12,0,12,0,False,2,22.498,Hard,Wet,38,50
+2025,R18,18,Singapore,Marina Bay,Singapore,2025-08-15,Isack Hadjar,Racing Bulls,FRA,6,7,5,False,10,0,10,0,False,2,9.775,Medium,Dry,32,39
+2025,R18,18,Singapore,Marina Bay,Singapore,2025-08-15,Max Verstappen,Red Bull,NED,1,6,6,False,8,0,8,0,False,2,14.672,Hard,Wet,37,36
+2025,R18,18,Singapore,Marina Bay,Singapore,2025-08-15,Oliver Bearman,Haas,GBR,87,5,7,False,6,0,6,0,False,2,2.755,Medium,Dry,38,27
+2025,R18,18,Singapore,Marina Bay,Singapore,2025-08-15,Franco Colapinto,Alpine,ARG,43,14,8,False,4,0,4,0,False,2,12.119,Hard,Dry,41,38
+2025,R18,18,Singapore,Marina Bay,Singapore,2025-08-15,Valtteri Bottas,Kick Sauber,FIN,77,7,9,False,2,0,2,0,False,2,5.147,Soft,Wet,19,32
+2025,R18,18,Singapore,Marina Bay,Singapore,2025-08-15,Alex Albon,Williams,THA,23,6,10,False,1,0,1,0,False,2,11.979,Medium,Mixed,28,53
+2025,R18,18,Singapore,Marina Bay,Singapore,2025-08-15,Liam Lawson,Racing Bulls,NZL,30,10,11,False,0,0,0,0,False,2,24.245,Medium,Dry,32,40
+2025,R18,18,Singapore,Marina Bay,Singapore,2025-08-15,Charles Leclerc,Ferrari,MON,16,20,12,False,0,0,0,0,False,2,2.166,Soft,Wet,39,35
+2025,R18,18,Singapore,Marina Bay,Singapore,2025-08-15,Nico Hulkenberg,Kick Sauber,GER,27,21,13,False,0,0,0,0,False,2,1.364,Medium,Dry,31,48
+2025,R18,18,Singapore,Marina Bay,Singapore,2025-08-15,Carlos Sainz,Williams,ESP,55,15,14,False,0,0,0,0,False,2,24.498,Hard,Dry,20,40
+2025,R18,18,Singapore,Marina Bay,Singapore,2025-08-15,Oscar Piastri,McLaren,AUS,81,19,15,False,0,0,0,0,False,2,9.147,Hard,Mixed,36,35
+2025,R18,18,Singapore,Marina Bay,Singapore,2025-08-15,Lance Stroll,Aston Martin,CAN,18,20,16,False,0,0,0,0,False,2,2.753,Hard,Wet,28,38
+2025,R18,18,Singapore,Marina Bay,Singapore,2025-08-15,Jack Doohan,Alpine,AUS,7,5,17,False,0,0,0,0,False,2,18.462,Soft,Mixed,21,46
+2025,R18,18,Singapore,Marina Bay,Singapore,2025-08-15,Yuki Tsunoda,Red Bull,JPN,22,14,18,False,0,0,0,0,False,2,24.894,Medium,Dry,35,51
+2025,R18,18,Singapore,Marina Bay,Singapore,2025-08-15,Gabriel Bortoleto,Kick Sauber,BRA,5,11,19,False,0,0,0,0,False,2,9.564,Medium,Dry,26,51
+2025,R18,18,Singapore,Marina Bay,Singapore,2025-08-15,Lewis Hamilton,Ferrari,GBR,44,10,20,False,0,0,0,0,False,2,22.09,Hard,Dry,24,28
+2025,R18,18,Singapore,Marina Bay,Singapore,2025-08-15,Esteban Ocon,Haas,FRA,31,22,21,False,0,0,0,0,False,2,4.966,Hard,Dry,31,38
+2025,R18,18,Singapore,Marina Bay,Singapore,2025-08-15,Kimi Antonelli,Mercedes,ITA,12,1,99,True,0,0,0,0,False,1,25.861,Medium,Dry,25,46
+2025,R19,19,United States,Circuit of the Americas,Austin,2025-09-01,Lando Norris,McLaren,GBR,4,17,1,False,25,8,33,0,True,3,0.0,Hard,Mixed,25,39
+2025,R19,19,United States,Circuit of the Americas,Austin,2025-09-01,Kimi Antonelli,Mercedes,ITA,12,20,2,False,18,3,21,0,True,3,15.14,Medium,Dry,22,54
+2025,R19,19,United States,Circuit of the Americas,Austin,2025-09-01,Liam Lawson,Racing Bulls,NZL,30,18,3,False,15,0,15,0,True,3,15.461,Medium,Wet,41,47
+2025,R19,19,United States,Circuit of the Americas,Austin,2025-09-01,Fernando Alonso,Aston Martin,ESP,14,9,4,False,12,2,14,0,True,3,4.361,Medium,Dry,35,43
+2025,R19,19,United States,Circuit of the Americas,Austin,2025-09-01,Lance Stroll,Aston Martin,CAN,18,6,5,False,10,3,13,0,True,3,7.538,Soft,Dry,20,40
+2025,R19,19,United States,Circuit of the Americas,Austin,2025-09-01,Esteban Ocon,Haas,FRA,31,21,6,False,8,7,15,0,True,3,1.448,Medium,Dry,30,46
+2025,R19,19,United States,Circuit of the Americas,Austin,2025-09-01,Nico Hulkenberg,Kick Sauber,GER,27,13,7,False,6,2,8,0,True,3,3.437,Hard,Dry,34,44
+2025,R19,19,United States,Circuit of the Americas,Austin,2025-09-01,Franco Colapinto,Alpine,ARG,43,16,8,False,4,1,5,0,True,3,7.653,Hard,Wet,34,54
+2025,R19,19,United States,Circuit of the Americas,Austin,2025-09-01,Isack Hadjar,Racing Bulls,FRA,6,20,9,False,2,0,2,0,True,3,0.674,Medium,Wet,26,46
+2025,R19,19,United States,Circuit of the Americas,Austin,2025-09-01,Pierre Gasly,Alpine,FRA,10,7,10,False,1,0,1,0,True,3,0.796,Medium,Wet,38,45
+2025,R19,19,United States,Circuit of the Americas,Austin,2025-09-01,Gabriel Bortoleto,Kick Sauber,BRA,5,17,11,False,0,5,5,0,True,3,39.926,Hard,Dry,19,30
+2025,R19,19,United States,Circuit of the Americas,Austin,2025-09-01,George Russell,Mercedes,GBR,63,1,12,False,0,0,0,0,True,3,1.278,Medium,Mixed,18,36
+2025,R19,19,United States,Circuit of the Americas,Austin,2025-09-01,Yuki Tsunoda,Red Bull,JPN,22,10,13,False,0,0,0,0,True,3,22.864,Medium,Dry,20,50
+2025,R19,19,United States,Circuit of the Americas,Austin,2025-09-01,Jack Doohan,Alpine,AUS,7,20,14,False,0,3,3,0,True,3,7.139,Soft,Dry,18,44
+2025,R19,19,United States,Circuit of the Americas,Austin,2025-09-01,Max Verstappen,Red Bull,NED,1,17,15,False,0,0,0,0,True,3,7.032,Medium,Dry,22,50
+2025,R19,19,United States,Circuit of the Americas,Austin,2025-09-01,Carlos Sainz,Williams,ESP,55,21,16,False,0,0,0,0,True,3,0.597,Medium,Dry,37,49
+2025,R19,19,United States,Circuit of the Americas,Austin,2025-09-01,Oscar Piastri,McLaren,AUS,81,6,17,False,0,0,0,0,True,3,3.25,Hard,Dry,23,27
+2025,R19,19,United States,Circuit of the Americas,Austin,2025-09-01,Oliver Bearman,Haas,GBR,87,6,18,False,0,0,0,0,True,3,7.408,Medium,Dry,35,28
+2025,R19,19,United States,Circuit of the Americas,Austin,2025-09-01,Alex Albon,Williams,THA,23,17,19,False,0,0,0,0,True,3,0.981,Soft,Mixed,20,28
+2025,R19,19,United States,Circuit of the Americas,Austin,2025-09-01,Charles Leclerc,Ferrari,MON,16,8,20,False,0,7,7,0,True,3,5.259,Medium,Dry,24,34
+2025,R19,19,United States,Circuit of the Americas,Austin,2025-09-01,Lewis Hamilton,Ferrari,GBR,44,10,21,False,0,0,0,0,True,3,15.095,Soft,Dry,26,29
+2025,R19,19,United States,Circuit of the Americas,Austin,2025-09-01,Valtteri Bottas,Kick Sauber,FIN,77,11,22,False,0,3,3,0,True,3,10.771,Hard,Wet,26,52
+2025,R20,20,Mexico City,Autodromo Hermanos Rodriguez,Mexico City,2025-09-08,Lando Norris,McLaren,GBR,4,10,1,False,25,0,25,0,False,3,0.0,Soft,Dry,40,33
+2025,R20,20,Mexico City,Autodromo Hermanos Rodriguez,Mexico City,2025-09-08,Yuki Tsunoda,Red Bull,JPN,22,16,2,False,18,0,18,0,False,3,0.923,Medium,Dry,28,45
+2025,R20,20,Mexico City,Autodromo Hermanos Rodriguez,Mexico City,2025-09-08,Jack Doohan,Alpine,AUS,7,17,3,False,15,0,15,0,False,3,24.876,Medium,Wet,29,49
+2025,R20,20,Mexico City,Autodromo Hermanos Rodriguez,Mexico City,2025-09-08,Oscar Piastri,McLaren,AUS,81,11,4,False,12,0,12,0,False,3,0.418,Medium,Dry,20,45
+2025,R20,20,Mexico City,Autodromo Hermanos Rodriguez,Mexico City,2025-09-08,Valtteri Bottas,Kick Sauber,FIN,77,12,5,False,10,0,10,0,False,3,26.961,Medium,Dry,27,36
+2025,R20,20,Mexico City,Autodromo Hermanos Rodriguez,Mexico City,2025-09-08,Franco Colapinto,Alpine,ARG,43,22,6,False,8,0,8,0,False,3,8.565,Hard,Dry,32,32
+2025,R20,20,Mexico City,Autodromo Hermanos Rodriguez,Mexico City,2025-09-08,Lewis Hamilton,Ferrari,GBR,44,14,7,False,6,0,6,0,False,3,5.282,Medium,Dry,30,54
+2025,R20,20,Mexico City,Autodromo Hermanos Rodriguez,Mexico City,2025-09-08,Alex Albon,Williams,THA,23,17,8,False,4,0,4,0,False,3,3.056,Medium,Wet,22,50
+2025,R20,20,Mexico City,Autodromo Hermanos Rodriguez,Mexico City,2025-09-08,Pierre Gasly,Alpine,FRA,10,15,9,False,2,0,2,0,False,3,7.821,Soft,Dry,33,38
+2025,R20,20,Mexico City,Autodromo Hermanos Rodriguez,Mexico City,2025-09-08,George Russell,Mercedes,GBR,63,5,10,False,1,0,1,0,False,3,0.734,Hard,Dry,32,38
+2025,R20,20,Mexico City,Autodromo Hermanos Rodriguez,Mexico City,2025-09-08,Carlos Sainz,Williams,ESP,55,21,11,False,0,0,0,0,False,3,3.595,Soft,Wet,37,53
+2025,R20,20,Mexico City,Autodromo Hermanos Rodriguez,Mexico City,2025-09-08,Charles Leclerc,Ferrari,MON,16,4,12,False,0,0,0,0,False,3,4.853,Medium,Dry,35,29
+2025,R20,20,Mexico City,Autodromo Hermanos Rodriguez,Mexico City,2025-09-08,Nico Hulkenberg,Kick Sauber,GER,27,19,13,False,0,0,0,0,False,3,14.337,Hard,Dry,39,53
+2025,R20,20,Mexico City,Autodromo Hermanos Rodriguez,Mexico City,2025-09-08,Kimi Antonelli,Mercedes,ITA,12,15,14,False,0,0,0,0,False,3,7.016,Medium,Dry,36,30
+2025,R20,20,Mexico City,Autodromo Hermanos Rodriguez,Mexico City,2025-09-08,Lance Stroll,Aston Martin,CAN,18,20,15,False,0,0,0,0,False,3,19.831,Hard,Wet,35,29
+2025,R20,20,Mexico City,Autodromo Hermanos Rodriguez,Mexico City,2025-09-08,Esteban Ocon,Haas,FRA,31,5,16,False,0,0,0,0,False,3,24.74,Medium,Dry,29,26
+2025,R20,20,Mexico City,Autodromo Hermanos Rodriguez,Mexico City,2025-09-08,Isack Hadjar,Racing Bulls,FRA,6,7,99,True,0,0,0,0,False,3,11.263,Medium,Dry,20,49
+2025,R20,20,Mexico City,Autodromo Hermanos Rodriguez,Mexico City,2025-09-08,Gabriel Bortoleto,Kick Sauber,BRA,5,21,18,False,0,0,0,0,False,3,20.14,Hard,Dry,27,26
+2025,R20,20,Mexico City,Autodromo Hermanos Rodriguez,Mexico City,2025-09-08,Oliver Bearman,Haas,GBR,87,16,19,False,0,0,0,0,False,3,22.419,Hard,Dry,28,48
+2025,R20,20,Mexico City,Autodromo Hermanos Rodriguez,Mexico City,2025-09-08,Max Verstappen,Red Bull,NED,1,4,20,False,0,0,0,0,False,3,17.157,Hard,Dry,29,41
+2025,R20,20,Mexico City,Autodromo Hermanos Rodriguez,Mexico City,2025-09-08,Fernando Alonso,Aston Martin,ESP,14,1,21,False,0,0,0,0,False,3,104.9,Hard,Wet,24,26
+2025,R20,20,Mexico City,Autodromo Hermanos Rodriguez,Mexico City,2025-09-08,Liam Lawson,Racing Bulls,NZL,30,19,22,False,0,0,0,0,False,3,16.027,Medium,Mixed,28,35
+2025,R21,21,São Paulo,Autodromo Jose Carlos Pace,São Paulo,2025-09-15,Max Verstappen,Red Bull,NED,1,9,1,False,25,8,33,0,True,2,0.0,Hard,Wet,33,44
+2025,R21,21,São Paulo,Autodromo Jose Carlos Pace,São Paulo,2025-09-15,Pierre Gasly,Alpine,FRA,10,12,2,False,18,4,22,0,True,2,13.221,Medium,Wet,30,28
+2025,R21,21,São Paulo,Autodromo Jose Carlos Pace,São Paulo,2025-09-15,Oliver Bearman,Haas,GBR,87,7,3,False,15,0,15,0,True,2,12.285,Medium,Wet,34,33
+2025,R21,21,São Paulo,Autodromo Jose Carlos Pace,São Paulo,2025-09-15,Kimi Antonelli,Mercedes,ITA,12,6,4,False,12,5,17,0,True,2,5.81,Soft,Dry,19,37
+2025,R21,21,São Paulo,Autodromo Jose Carlos Pace,São Paulo,2025-09-15,Yuki Tsunoda,Red Bull,JPN,22,20,5,False,10,0,10,0,True,2,4.737,Hard,Dry,36,25
+2025,R21,21,São Paulo,Autodromo Jose Carlos Pace,São Paulo,2025-09-15,Carlos Sainz,Williams,ESP,55,15,6,False,8,0,8,0,True,2,3.769,Hard,Wet,36,32
+2025,R21,21,São Paulo,Autodromo Jose Carlos Pace,São Paulo,2025-09-15,Franco Colapinto,Alpine,ARG,43,19,7,False,6,0,6,0,True,2,8.332,Hard,Dry,23,41
+2025,R21,21,São Paulo,Autodromo Jose Carlos Pace,São Paulo,2025-09-15,Esteban Ocon,Haas,FRA,31,16,8,False,4,0,4,0,True,2,16.066,Medium,Wet,39,46
+2025,R21,21,São Paulo,Autodromo Jose Carlos Pace,São Paulo,2025-09-15,Gabriel Bortoleto,Kick Sauber,BRA,5,4,9,False,2,5,7,0,True,2,5.421,Medium,Dry,34,27
+2025,R21,21,São Paulo,Autodromo Jose Carlos Pace,São Paulo,2025-09-15,George Russell,Mercedes,GBR,63,7,10,False,1,7,8,0,True,2,2.774,Hard,Dry,37,25
+2025,R21,21,São Paulo,Autodromo Jose Carlos Pace,São Paulo,2025-09-15,Fernando Alonso,Aston Martin,ESP,14,14,11,False,0,6,6,0,True,2,1.219,Medium,Dry,33,27
+2025,R21,21,São Paulo,Autodromo Jose Carlos Pace,São Paulo,2025-09-15,Jack Doohan,Alpine,AUS,7,13,12,False,0,0,0,0,True,2,68.43,Medium,Dry,41,46
+2025,R21,21,São Paulo,Autodromo Jose Carlos Pace,São Paulo,2025-09-15,Lance Stroll,Aston Martin,CAN,18,20,13,False,0,5,5,0,True,2,9.452,Medium,Dry,35,27
+2025,R21,21,São Paulo,Autodromo Jose Carlos Pace,São Paulo,2025-09-15,Oscar Piastri,McLaren,AUS,81,21,14,False,0,0,0,0,True,2,10.701,Medium,Mixed,31,31
+2025,R21,21,São Paulo,Autodromo Jose Carlos Pace,São Paulo,2025-09-15,Lewis Hamilton,Ferrari,GBR,44,12,15,False,0,2,2,0,True,2,16.196,Medium,Dry,36,27
+2025,R21,21,São Paulo,Autodromo Jose Carlos Pace,São Paulo,2025-09-15,Lando Norris,McLaren,GBR,4,12,16,False,0,4,4,0,True,2,13.748,Medium,Mixed,31,32
+2025,R21,21,São Paulo,Autodromo Jose Carlos Pace,São Paulo,2025-09-15,Isack Hadjar,Racing Bulls,FRA,6,19,17,False,0,1,1,0,True,2,1.53,Medium,Wet,26,32
+2025,R21,21,São Paulo,Autodromo Jose Carlos Pace,São Paulo,2025-09-15,Nico Hulkenberg,Kick Sauber,GER,27,15,18,False,0,0,0,0,True,2,2.363,Soft,Dry,35,39
+2025,R21,21,São Paulo,Autodromo Jose Carlos Pace,São Paulo,2025-09-15,Valtteri Bottas,Kick Sauber,FIN,77,1,19,False,0,0,0,0,True,2,11.156,Soft,Wet,34,29
+2025,R21,21,São Paulo,Autodromo Jose Carlos Pace,São Paulo,2025-09-15,Liam Lawson,Racing Bulls,NZL,30,6,20,False,0,0,0,0,True,2,11.111,Medium,Dry,28,35
+2025,R21,21,São Paulo,Autodromo Jose Carlos Pace,São Paulo,2025-09-15,Charles Leclerc,Ferrari,MON,16,21,21,False,0,2,2,0,True,2,8.727,Hard,Wet,25,40
+2025,R21,21,São Paulo,Autodromo Jose Carlos Pace,São Paulo,2025-09-15,Alex Albon,Williams,THA,23,1,22,False,0,0,0,0,True,2,19.074,Medium,Dry,34,44
+2025,R22,22,Las Vegas,Las Vegas Strip Circuit,Las Vegas,2025-10-01,Lando Norris,McLaren,GBR,4,12,1,False,26,0,26,1,False,2,0.0,Hard,Dry,30,30
+2025,R22,22,Las Vegas,Las Vegas Strip Circuit,Las Vegas,2025-10-01,Carlos Sainz,Williams,ESP,55,9,2,False,18,0,18,0,False,2,0.37,Medium,Dry,27,34
+2025,R22,22,Las Vegas,Las Vegas Strip Circuit,Las Vegas,2025-10-01,Nico Hulkenberg,Kick Sauber,GER,27,20,3,False,15,0,15,0,False,2,1.629,Medium,Dry,21,32
+2025,R22,22,Las Vegas,Las Vegas Strip Circuit,Las Vegas,2025-10-01,Oliver Bearman,Haas,GBR,87,4,4,False,12,0,12,0,False,2,12.887,Medium,Dry,37,29
+2025,R22,22,Las Vegas,Las Vegas Strip Circuit,Las Vegas,2025-10-01,Lewis Hamilton,Ferrari,GBR,44,18,5,False,10,0,10,0,False,2,7.644,Soft,Wet,21,34
+2025,R22,22,Las Vegas,Las Vegas Strip Circuit,Las Vegas,2025-10-01,Pierre Gasly,Alpine,FRA,10,9,6,False,8,0,8,0,False,2,2.397,Soft,Dry,31,33
+2025,R22,22,Las Vegas,Las Vegas Strip Circuit,Las Vegas,2025-10-01,Yuki Tsunoda,Red Bull,JPN,22,5,7,False,6,0,6,0,False,2,0.01,Medium,Wet,41,37
+2025,R22,22,Las Vegas,Las Vegas Strip Circuit,Las Vegas,2025-10-01,Gabriel Bortoleto,Kick Sauber,BRA,5,9,8,False,4,0,4,0,False,2,3.33,Hard,Dry,41,52
+2025,R22,22,Las Vegas,Las Vegas Strip Circuit,Las Vegas,2025-10-01,Kimi Antonelli,Mercedes,ITA,12,7,9,False,2,0,2,0,False,2,49.095,Medium,Dry,36,29
+2025,R22,22,Las Vegas,Las Vegas Strip Circuit,Las Vegas,2025-10-01,Valtteri Bottas,Kick Sauber,FIN,77,18,10,False,1,0,1,0,False,2,16.394,Medium,Dry,30,26
+2025,R22,22,Las Vegas,Las Vegas Strip Circuit,Las Vegas,2025-10-01,Lance Stroll,Aston Martin,CAN,18,10,11,False,0,0,0,0,False,2,8.246,Hard,Dry,20,42
+2025,R22,22,Las Vegas,Las Vegas Strip Circuit,Las Vegas,2025-10-01,Esteban Ocon,Haas,FRA,31,5,12,False,0,0,0,0,False,2,5.842,Medium,Dry,36,54
+2025,R22,22,Las Vegas,Las Vegas Strip Circuit,Las Vegas,2025-10-01,Oscar Piastri,McLaren,AUS,81,9,13,False,0,0,0,0,False,2,24.947,Medium,Wet,40,27
+2025,R22,22,Las Vegas,Las Vegas Strip Circuit,Las Vegas,2025-10-01,Isack Hadjar,Racing Bulls,FRA,6,6,14,False,0,0,0,0,False,2,3.442,Hard,Dry,34,49
+2025,R22,22,Las Vegas,Las Vegas Strip Circuit,Las Vegas,2025-10-01,Fernando Alonso,Aston Martin,ESP,14,19,15,False,0,0,0,0,False,2,5.53,Medium,Dry,37,43
+2025,R22,22,Las Vegas,Las Vegas Strip Circuit,Las Vegas,2025-10-01,Liam Lawson,Racing Bulls,NZL,30,13,16,False,0,0,0,0,False,2,6.654,Soft,Wet,21,49
+2025,R22,22,Las Vegas,Las Vegas Strip Circuit,Las Vegas,2025-10-01,Franco Colapinto,Alpine,ARG,43,6,17,False,0,0,0,0,False,2,1.965,Hard,Dry,34,38
+2025,R22,22,Las Vegas,Las Vegas Strip Circuit,Las Vegas,2025-10-01,Jack Doohan,Alpine,AUS,7,19,18,False,0,0,0,0,False,2,14.166,Medium,Dry,28,30
+2025,R22,22,Las Vegas,Las Vegas Strip Circuit,Las Vegas,2025-10-01,George Russell,Mercedes,GBR,63,16,99,True,0,0,0,0,False,1,12.073,Hard,Dry,25,43
+2025,R22,22,Las Vegas,Las Vegas Strip Circuit,Las Vegas,2025-10-01,Max Verstappen,Red Bull,NED,1,7,20,False,0,0,0,0,False,2,7.926,Medium,Dry,25,48
+2025,R22,22,Las Vegas,Las Vegas Strip Circuit,Las Vegas,2025-10-01,Charles Leclerc,Ferrari,MON,16,3,21,False,0,0,0,0,False,2,21.329,Medium,Dry,18,51
+2025,R22,22,Las Vegas,Las Vegas Strip Circuit,Las Vegas,2025-10-01,Alex Albon,Williams,THA,23,9,22,False,0,0,0,0,False,2,2.064,Soft,Dry,18,42
+2025,R23,23,Qatar,Lusail Intl Circuit,Lusail,2025-10-08,Max Verstappen,Red Bull,NED,1,14,1,False,25,8,33,0,True,3,0.0,Medium,Dry,39,31
+2025,R23,23,Qatar,Lusail Intl Circuit,Lusail,2025-10-08,Nico Hulkenberg,Kick Sauber,GER,27,2,2,False,18,0,18,0,True,3,3.25,Soft,Dry,23,41
+2025,R23,23,Qatar,Lusail Intl Circuit,Lusail,2025-10-08,Liam Lawson,Racing Bulls,NZL,30,1,3,False,15,0,15,0,True,3,8.931,Hard,Mixed,18,25
+2025,R23,23,Qatar,Lusail Intl Circuit,Lusail,2025-10-08,Franco Colapinto,Alpine,ARG,43,7,4,False,12,2,14,0,True,3,4.723,Soft,Wet,35,47
+2025,R23,23,Qatar,Lusail Intl Circuit,Lusail,2025-10-08,Lance Stroll,Aston Martin,CAN,18,15,5,False,10,0,10,0,True,3,17.993,Medium,Dry,36,30
+2025,R23,23,Qatar,Lusail Intl Circuit,Lusail,2025-10-08,Lewis Hamilton,Ferrari,GBR,44,10,6,False,8,0,8,0,True,3,13.713,Medium,Mixed,33,42
+2025,R23,23,Qatar,Lusail Intl Circuit,Lusail,2025-10-08,Oscar Piastri,McLaren,AUS,81,1,7,False,6,0,6,0,True,3,1.421,Soft,Dry,38,40
+2025,R23,23,Qatar,Lusail Intl Circuit,Lusail,2025-10-08,Kimi Antonelli,Mercedes,ITA,12,19,8,False,4,0,4,0,True,3,7.186,Hard,Dry,34,29
+2025,R23,23,Qatar,Lusail Intl Circuit,Lusail,2025-10-08,Isack Hadjar,Racing Bulls,FRA,6,5,9,False,2,2,4,0,True,3,2.581,Medium,Wet,18,40
+2025,R23,23,Qatar,Lusail Intl Circuit,Lusail,2025-10-08,Pierre Gasly,Alpine,FRA,10,20,10,False,1,5,6,0,True,3,11.498,Hard,Dry,24,50
+2025,R23,23,Qatar,Lusail Intl Circuit,Lusail,2025-10-08,Lando Norris,McLaren,GBR,4,22,11,False,0,5,5,0,True,3,3.28,Medium,Dry,28,34
+2025,R23,23,Qatar,Lusail Intl Circuit,Lusail,2025-10-08,Alex Albon,Williams,THA,23,21,12,False,0,0,0,0,True,3,40.486,Hard,Dry,28,45
+2025,R23,23,Qatar,Lusail Intl Circuit,Lusail,2025-10-08,Fernando Alonso,Aston Martin,ESP,14,13,13,False,0,2,2,0,True,3,0.914,Medium,Dry,22,47
+2025,R23,23,Qatar,Lusail Intl Circuit,Lusail,2025-10-08,Jack Doohan,Alpine,AUS,7,4,14,False,0,3,3,0,True,3,72.505,Soft,Dry,31,28
+2025,R23,23,Qatar,Lusail Intl Circuit,Lusail,2025-10-08,Oliver Bearman,Haas,GBR,87,13,15,False,0,5,5,0,True,3,11.782,Medium,Dry,21,53
+2025,R23,23,Qatar,Lusail Intl Circuit,Lusail,2025-10-08,Valtteri Bottas,Kick Sauber,FIN,77,17,16,False,0,6,6,0,True,3,7.499,Soft,Dry,37,44
+2025,R23,23,Qatar,Lusail Intl Circuit,Lusail,2025-10-08,Yuki Tsunoda,Red Bull,JPN,22,6,17,False,0,5,5,0,True,3,36.934,Medium,Wet,22,40
+2025,R23,23,Qatar,Lusail Intl Circuit,Lusail,2025-10-08,Charles Leclerc,Ferrari,MON,16,14,18,False,0,5,5,0,True,3,26.611,Medium,Dry,23,36
+2025,R23,23,Qatar,Lusail Intl Circuit,Lusail,2025-10-08,Gabriel Bortoleto,Kick Sauber,BRA,5,12,19,False,0,4,4,0,True,3,2.714,Hard,Dry,25,53
+2025,R23,23,Qatar,Lusail Intl Circuit,Lusail,2025-10-08,Esteban Ocon,Haas,FRA,31,21,20,False,0,0,0,0,True,3,6.843,Medium,Dry,37,48
+2025,R23,23,Qatar,Lusail Intl Circuit,Lusail,2025-10-08,Carlos Sainz,Williams,ESP,55,7,21,False,0,0,0,0,True,3,4.305,Hard,Dry,41,52
+2025,R23,23,Qatar,Lusail Intl Circuit,Lusail,2025-10-08,George Russell,Mercedes,GBR,63,2,22,False,0,0,0,0,True,3,64.37,Medium,Dry,19,44
+2025,R24,24,Abu Dhabi,Yas Marina,Abu Dhabi,2025-10-15,Max Verstappen,Red Bull,NED,1,4,1,False,26,0,26,1,False,3,0.0,Soft,Dry,36,50
+2025,R24,24,Abu Dhabi,Yas Marina,Abu Dhabi,2025-10-15,Esteban Ocon,Haas,FRA,31,1,2,False,18,0,18,0,False,3,1.757,Medium,Dry,25,42
+2025,R24,24,Abu Dhabi,Yas Marina,Abu Dhabi,2025-10-15,Lewis Hamilton,Ferrari,GBR,44,22,3,False,15,0,15,0,False,3,6.377,Medium,Dry,25,51
+2025,R24,24,Abu Dhabi,Yas Marina,Abu Dhabi,2025-10-15,Yuki Tsunoda,Red Bull,JPN,22,2,4,False,12,0,12,0,False,3,11.204,Medium,Mixed,30,29
+2025,R24,24,Abu Dhabi,Yas Marina,Abu Dhabi,2025-10-15,Isack Hadjar,Racing Bulls,FRA,6,5,5,False,10,0,10,0,False,3,0.764,Medium,Wet,29,40
+2025,R24,24,Abu Dhabi,Yas Marina,Abu Dhabi,2025-10-15,Oscar Piastri,McLaren,AUS,81,9,6,False,8,0,8,0,False,3,14.062,Medium,Wet,22,35
+2025,R24,24,Abu Dhabi,Yas Marina,Abu Dhabi,2025-10-15,Jack Doohan,Alpine,AUS,7,21,7,False,6,0,6,0,False,3,10.989,Medium,Wet,41,31
+2025,R24,24,Abu Dhabi,Yas Marina,Abu Dhabi,2025-10-15,Lando Norris,McLaren,GBR,4,15,8,False,4,0,4,0,False,3,13.751,Medium,Wet,18,28
+2025,R24,24,Abu Dhabi,Yas Marina,Abu Dhabi,2025-10-15,George Russell,Mercedes,GBR,63,5,9,False,2,0,2,0,False,3,12.54,Soft,Dry,30,37
+2025,R24,24,Abu Dhabi,Yas Marina,Abu Dhabi,2025-10-15,Kimi Antonelli,Mercedes,ITA,12,13,10,False,1,0,1,0,False,3,26.183,Medium,Dry,21,32
+2025,R24,24,Abu Dhabi,Yas Marina,Abu Dhabi,2025-10-15,Nico Hulkenberg,Kick Sauber,GER,27,12,11,False,0,0,0,0,False,3,0.313,Medium,Wet,33,25
+2025,R24,24,Abu Dhabi,Yas Marina,Abu Dhabi,2025-10-15,Carlos Sainz,Williams,ESP,55,22,12,False,0,0,0,0,False,3,12.016,Hard,Dry,20,29
+2025,R24,24,Abu Dhabi,Yas Marina,Abu Dhabi,2025-10-15,Liam Lawson,Racing Bulls,NZL,30,7,13,False,0,0,0,0,False,3,3.375,Soft,Dry,31,35
+2025,R24,24,Abu Dhabi,Yas Marina,Abu Dhabi,2025-10-15,Alex Albon,Williams,THA,23,1,14,False,0,0,0,0,False,3,5.497,Medium,Dry,22,43
+2025,R24,24,Abu Dhabi,Yas Marina,Abu Dhabi,2025-10-15,Lance Stroll,Aston Martin,CAN,18,6,15,False,0,0,0,0,False,3,28.425,Medium,Dry,39,43
+2025,R24,24,Abu Dhabi,Yas Marina,Abu Dhabi,2025-10-15,Pierre Gasly,Alpine,FRA,10,18,16,False,0,0,0,0,False,3,57.105,Medium,Dry,40,36
+2025,R24,24,Abu Dhabi,Yas Marina,Abu Dhabi,2025-10-15,Gabriel Bortoleto,Kick Sauber,BRA,5,9,17,False,0,0,0,0,False,3,18.989,Soft,Dry,20,54
+2025,R24,24,Abu Dhabi,Yas Marina,Abu Dhabi,2025-10-15,Fernando Alonso,Aston Martin,ESP,14,9,18,False,0,0,0,0,False,3,7.828,Hard,Dry,30,42
+2025,R24,24,Abu Dhabi,Yas Marina,Abu Dhabi,2025-10-15,Valtteri Bottas,Kick Sauber,FIN,77,12,19,False,0,0,0,0,False,3,5.308,Medium,Dry,18,31
+2025,R24,24,Abu Dhabi,Yas Marina,Abu Dhabi,2025-10-15,Oliver Bearman,Haas,GBR,87,3,20,False,0,0,0,0,False,3,2.658,Hard,Dry,34,54
+2025,R24,24,Abu Dhabi,Yas Marina,Abu Dhabi,2025-10-15,Franco Colapinto,Alpine,ARG,43,17,21,False,0,0,0,0,False,3,11.821,Medium,Dry,40,26
+2025,R24,24,Abu Dhabi,Yas Marina,Abu Dhabi,2025-10-15,Charles Leclerc,Ferrari,MON,16,15,22,False,0,0,0,0,False,3,3.141,Medium,Mixed,36,35

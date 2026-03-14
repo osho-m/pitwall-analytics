@@ -1,0 +1,67 @@
+season,race_id,grand_prix,circuit,city,date,session_type,driver,team,engine_supplier,nationality,driver_number,position,points_earned,cumulative_points,active_aero,overtake_mode_used,recharge_mode_laps,straight_line_mode_activations
+2026,R01,Australia,Albert Park,Melbourne,2026-03-06,Race,George Russell,Mercedes,Mercedes,GBR,63,1,25,33,True,3,11,33
+2026,R01,Australia,Albert Park,Melbourne,2026-03-06,Race,Kimi Antonelli,Mercedes,Mercedes,ITA,12,2,18,22,True,2,16,35
+2026,R01,Australia,Albert Park,Melbourne,2026-03-06,Race,Charles Leclerc,Ferrari,Ferrari,MON,16,3,15,22,True,10,19,22
+2026,R01,Australia,Albert Park,Melbourne,2026-03-06,Race,Lewis Hamilton,Ferrari,Ferrari,GBR,44,4,12,18,True,5,18,21
+2026,R01,Australia,Albert Park,Melbourne,2026-03-06,Race,Lando Norris,McLaren,Mercedes,GBR,4,5,10,15,True,5,7,31
+2026,R01,Australia,Albert Park,Melbourne,2026-03-06,Race,Oscar Piastri,McLaren,Mercedes,AUS,81,6,8,3,True,2,10,27
+2026,R01,Australia,Albert Park,Melbourne,2026-03-06,Race,Oliver Bearman,Haas,Ferrari,GBR,87,7,6,7,True,10,6,32
+2026,R01,Australia,Albert Park,Melbourne,2026-03-06,Race,Arvid Lindblad,Racing Bulls,RBPT-Ford,GBR,8,8,4,4,True,2,16,32
+2026,R01,Australia,Albert Park,Melbourne,2026-03-06,Race,Gabriel Bortoleto,Audi,Audi,BRA,5,9,2,2,True,6,12,13
+2026,R01,Australia,Albert Park,Melbourne,2026-03-06,Race,Liam Lawson,Racing Bulls,RBPT-Ford,NZL,30,10,1,2,True,11,11,31
+2026,R01,Australia,Albert Park,Melbourne,2026-03-06,Race,Pierre Gasly,Alpine,Mercedes,FRA,10,11,0,1,True,6,8,24
+2026,R01,Australia,Albert Park,Melbourne,2026-03-06,Race,Esteban Ocon,Haas,Ferrari,FRA,31,12,0,0,True,8,16,25
+2026,R01,Australia,Albert Park,Melbourne,2026-03-06,Race,Alex Albon,Williams,Mercedes,THA,23,13,0,0,True,6,9,24
+2026,R01,Australia,Albert Park,Melbourne,2026-03-06,Race,Franco Colapinto,Alpine,Mercedes,ARG,43,14,0,0,True,2,6,14
+2026,R01,Australia,Albert Park,Melbourne,2026-03-06,Race,Carlos Sainz,Williams,Mercedes,ESP,55,15,0,0,True,4,18,22
+2026,R01,Australia,Albert Park,Melbourne,2026-03-06,Race,Sergio Perez,Cadillac,Ferrari,MEX,11,16,0,0,True,3,18,39
+2026,R01,Australia,Albert Park,Melbourne,2026-03-06,Race,Isack Hadjar,Red Bull,RBPT-Ford,FRA,6,17,0,0,True,5,8,29
+2026,R01,Australia,Albert Park,Melbourne,2026-03-06,Race,Nico Hulkenberg,Audi,Audi,GER,27,18,0,0,True,5,7,22
+2026,R01,Australia,Albert Park,Melbourne,2026-03-06,Race,Fernando Alonso,Aston Martin,Honda,ESP,14,19,0,0,True,8,13,21
+2026,R01,Australia,Albert Park,Melbourne,2026-03-06,Race,Valtteri Bottas,Cadillac,Ferrari,FIN,77,20,0,0,True,6,8,36
+2026,R01,Australia,Albert Park,Melbourne,2026-03-06,Race,Lance Stroll,Aston Martin,Honda,CAN,18,21,0,0,True,3,6,14
+2026,R01,Australia,Albert Park,Melbourne,2026-03-06,Race,Max Verstappen,Red Bull,RBPT-Ford,NED,1,22,0,8,True,8,14,19
+2026,R02,China,Shanghai Intl,Shanghai,2026-03-14,Sprint,George Russell,Mercedes,Mercedes,GBR,63,1,8,33,True,0,0,0
+2026,R02,China,Shanghai Intl,Shanghai,2026-03-14,Sprint,Charles Leclerc,Ferrari,Ferrari,MON,16,2,7,22,True,0,0,0
+2026,R02,China,Shanghai Intl,Shanghai,2026-03-14,Sprint,Lewis Hamilton,Ferrari,Ferrari,GBR,44,3,6,18,True,0,0,0
+2026,R02,China,Shanghai Intl,Shanghai,2026-03-14,Sprint,Lando Norris,McLaren,Mercedes,GBR,4,4,5,15,True,0,0,0
+2026,R02,China,Shanghai Intl,Shanghai,2026-03-14,Sprint,Kimi Antonelli,Mercedes,Mercedes,ITA,12,5,4,22,True,0,0,0
+2026,R02,China,Shanghai Intl,Shanghai,2026-03-14,Sprint,Oscar Piastri,McLaren,Mercedes,AUS,81,6,3,3,True,0,0,0
+2026,R02,China,Shanghai Intl,Shanghai,2026-03-14,Sprint,Pierre Gasly,Alpine,Mercedes,FRA,10,7,2,1,True,0,0,0
+2026,R02,China,Shanghai Intl,Shanghai,2026-03-14,Sprint,Max Verstappen,Red Bull,RBPT-Ford,NED,1,8,1,8,True,0,0,0
+2026,R02,China,Shanghai Intl,Shanghai,2026-03-14,Sprint,Isack Hadjar,Red Bull,RBPT-Ford,FRA,6,9,0,0,True,0,0,0
+2026,R02,China,Shanghai Intl,Shanghai,2026-03-14,Sprint,Oliver Bearman,Haas,Ferrari,GBR,87,10,0,7,True,0,0,0
+2026,R02,China,Shanghai Intl,Shanghai,2026-03-14,Sprint,Nico Hulkenberg,Audi,Audi,GER,27,11,0,0,True,0,0,0
+2026,R02,China,Shanghai Intl,Shanghai,2026-03-14,Sprint,Franco Colapinto,Alpine,Mercedes,ARG,43,12,0,0,True,0,0,0
+2026,R02,China,Shanghai Intl,Shanghai,2026-03-14,Sprint,Esteban Ocon,Haas,Ferrari,FRA,31,13,0,0,True,0,0,0
+2026,R02,China,Shanghai Intl,Shanghai,2026-03-14,Sprint,Liam Lawson,Racing Bulls,RBPT-Ford,NZL,30,14,0,2,True,0,0,0
+2026,R02,China,Shanghai Intl,Shanghai,2026-03-14,Sprint,Arvid Lindblad,Racing Bulls,RBPT-Ford,GBR,8,15,0,4,True,0,0,0
+2026,R02,China,Shanghai Intl,Shanghai,2026-03-14,Sprint,Gabriel Bortoleto,Audi,Audi,BRA,5,16,0,2,True,0,0,0
+2026,R02,China,Shanghai Intl,Shanghai,2026-03-14,Sprint,Carlos Sainz,Williams,Mercedes,ESP,55,17,0,0,True,0,0,0
+2026,R02,China,Shanghai Intl,Shanghai,2026-03-14,Sprint,Alex Albon,Williams,Mercedes,THA,23,18,0,0,True,0,0,0
+2026,R02,China,Shanghai Intl,Shanghai,2026-03-14,Sprint,Fernando Alonso,Aston Martin,Honda,ESP,14,19,0,0,True,0,0,0
+2026,R02,China,Shanghai Intl,Shanghai,2026-03-14,Sprint,Sergio Perez,Cadillac,Ferrari,MEX,11,20,0,0,True,0,0,0
+2026,R02,China,Shanghai Intl,Shanghai,2026-03-14,Sprint,Lance Stroll,Aston Martin,Honda,CAN,18,21,0,0,True,0,0,0
+2026,R02,China,Shanghai Intl,Shanghai,2026-03-14,Sprint,Valtteri Bottas,Cadillac,Ferrari,FIN,77,22,0,0,True,0,0,0
+2026,R02,China,Shanghai Intl,Shanghai,2026-03-15,Qualifying,Kimi Antonelli,Mercedes,Mercedes,ITA,12,1,0,22,True,0,0,0
+2026,R02,China,Shanghai Intl,Shanghai,2026-03-15,Qualifying,George Russell,Mercedes,Mercedes,GBR,63,2,0,33,True,0,0,0
+2026,R02,China,Shanghai Intl,Shanghai,2026-03-15,Qualifying,Lewis Hamilton,Ferrari,Ferrari,GBR,44,3,0,18,True,0,0,0
+2026,R02,China,Shanghai Intl,Shanghai,2026-03-15,Qualifying,Charles Leclerc,Ferrari,Ferrari,MON,16,4,0,22,True,0,0,0
+2026,R02,China,Shanghai Intl,Shanghai,2026-03-15,Qualifying,Oscar Piastri,McLaren,Mercedes,AUS,81,5,0,3,True,0,0,0
+2026,R02,China,Shanghai Intl,Shanghai,2026-03-15,Qualifying,Lando Norris,McLaren,Mercedes,GBR,4,6,0,15,True,0,0,0
+2026,R02,China,Shanghai Intl,Shanghai,2026-03-15,Qualifying,Pierre Gasly,Alpine,Mercedes,FRA,10,7,0,1,True,0,0,0
+2026,R02,China,Shanghai Intl,Shanghai,2026-03-15,Qualifying,Max Verstappen,Red Bull,RBPT-Ford,NED,1,8,0,8,True,0,0,0
+2026,R02,China,Shanghai Intl,Shanghai,2026-03-15,Qualifying,Isack Hadjar,Red Bull,RBPT-Ford,FRA,6,9,0,0,True,0,0,0
+2026,R02,China,Shanghai Intl,Shanghai,2026-03-15,Qualifying,Oliver Bearman,Haas,Ferrari,GBR,87,10,0,7,True,0,0,0
+2026,R02,China,Shanghai Intl,Shanghai,2026-03-15,Qualifying,Nico Hulkenberg,Audi,Audi,GER,27,11,0,0,True,0,0,0
+2026,R02,China,Shanghai Intl,Shanghai,2026-03-15,Qualifying,Franco Colapinto,Alpine,Mercedes,ARG,43,12,0,0,True,0,0,0
+2026,R02,China,Shanghai Intl,Shanghai,2026-03-15,Qualifying,Esteban Ocon,Haas,Ferrari,FRA,31,13,0,0,True,0,0,0
+2026,R02,China,Shanghai Intl,Shanghai,2026-03-15,Qualifying,Liam Lawson,Racing Bulls,RBPT-Ford,NZL,30,14,0,2,True,0,0,0
+2026,R02,China,Shanghai Intl,Shanghai,2026-03-15,Qualifying,Arvid Lindblad,Racing Bulls,RBPT-Ford,GBR,8,15,0,4,True,0,0,0
+2026,R02,China,Shanghai Intl,Shanghai,2026-03-15,Qualifying,Gabriel Bortoleto,Audi,Audi,BRA,5,16,0,2,True,0,0,0
+2026,R02,China,Shanghai Intl,Shanghai,2026-03-15,Qualifying,Carlos Sainz,Williams,Mercedes,ESP,55,17,0,0,True,0,0,0
+2026,R02,China,Shanghai Intl,Shanghai,2026-03-15,Qualifying,Alex Albon,Williams,Mercedes,THA,23,18,0,0,True,0,0,0
+2026,R02,China,Shanghai Intl,Shanghai,2026-03-15,Qualifying,Fernando Alonso,Aston Martin,Honda,ESP,14,19,0,0,True,0,0,0
+2026,R02,China,Shanghai Intl,Shanghai,2026-03-15,Qualifying,Valtteri Bottas,Cadillac,Ferrari,FIN,77,20,0,0,True,0,0,0
+2026,R02,China,Shanghai Intl,Shanghai,2026-03-15,Qualifying,Lance Stroll,Aston Martin,Honda,CAN,18,21,0,0,True,0,0,0
+2026,R02,China,Shanghai Intl,Shanghai,2026-03-15,Qualifying,Sergio Perez,Cadillac,Ferrari,MEX,11,22,0,0,True,0,0,0

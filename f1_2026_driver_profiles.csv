@@ -1,0 +1,23 @@
+driver,team_2026,engine_supplier_2026,nationality,age_2026,driver_number,career_wins,career_poles,world_championships,f1_seasons_experience,is_rookie_2026,2025_championship_pts,2026_pts_so_far,car_performance_rating_2026,driver_skill_rating,active_aero_adaptation_score,overtake_mode_efficiency,energy_management_rating,team_prev_season,team_changed_2026
+George Russell,Mercedes,Mercedes,GBR,28,63,44,28,0,8,False,219,33,9.2,10.0,7.44,69.7,7.23,Mercedes,False
+Kimi Antonelli,Mercedes,Mercedes,ITA,19,12,0,0,0,1,True,107,22,9.2,4.56,8.53,79.8,6.44,Mercedes,False
+Charles Leclerc,Ferrari,Ferrari,MON,28,16,12,31,0,8,False,228,22,8.8,9.33,8.79,63.0,6.16,Ferrari,False
+Lewis Hamilton,Ferrari,Ferrari,GBR,41,44,105,104,7,21,False,145,18,8.8,10.0,5.58,67.2,7.45,Ferrari,True
+Lando Norris,McLaren,Mercedes,GBR,26,4,20,14,1,6,False,393,15,8.3,10.0,6.75,81.4,6.39,McLaren,False
+Oscar Piastri,McLaren,Mercedes,AUS,24,81,7,4,0,4,False,380,3,8.3,5.82,8.12,81.6,8.77,McLaren,False
+Max Verstappen,Red Bull,RBPT-Ford,NED,28,1,64,42,4,8,False,391,8,7.5,10.0,8.88,78.5,9.31,Red Bull,False
+Isack Hadjar,Red Bull,RBPT-Ford,FRA,21,6,0,0,0,1,True,65,0,7.5,4.0,5.75,95.4,6.18,Racing Bulls,True
+Pierre Gasly,Alpine,Mercedes,FRA,30,10,1,1,0,10,False,77,1,7.0,4.04,6.63,77.9,7.14,Alpine,False
+Franco Colapinto,Alpine,Mercedes,ARG,22,43,0,0,0,2,False,0,0,7.0,4.0,9.59,91.3,8.48,Alpine,True
+Nico Hulkenberg,Audi,Audi,GER,38,27,1,1,0,18,False,70,0,6.5,4.0,7.19,77.0,8.56,Kick Sauber,True
+Gabriel Bortoleto,Audi,Audi,BRA,21,5,0,0,0,1,True,14,2,6.5,4.0,7.04,62.4,6.26,Kick Sauber,True
+Esteban Ocon,Haas,Ferrari,FRA,29,31,1,0,0,9,False,72,0,7.2,4.3,7.19,69.8,7.22,Haas,True
+Oliver Bearman,Haas,Ferrari,GBR,20,87,0,0,0,1,True,10,7,7.2,4.0,8.91,83.8,9.28,Haas,False
+Liam Lawson,Racing Bulls,RBPT-Ford,NZL,23,30,0,0,0,3,False,54,2,7.0,4.0,8.12,95.8,8.76,Racing Bulls,False
+Arvid Lindblad,Racing Bulls,RBPT-Ford,GBR,19,8,0,0,0,1,True,0,4,7.0,4.05,5.6,80.3,8.41,F2,True
+Carlos Sainz,Williams,Mercedes,ESP,31,55,3,6,0,11,False,133,0,6.8,4.21,9.23,96.3,6.83,Williams,False
+Alex Albon,Williams,Mercedes,THA,29,23,0,0,0,9,False,47,0,6.8,4.0,9.3,63.7,6.19,Williams,False
+Fernando Alonso,Aston Martin,Honda,ESP,44,14,32,22,2,24,False,43,0,6.5,10.0,6.77,63.4,8.34,Aston Martin,False
+Valtteri Bottas,Cadillac,Ferrari,FIN,36,77,10,20,0,16,False,5,0,5.5,6.16,6.07,92.4,8.86,Reserve,True
+Lance Stroll,Aston Martin,Honda,CAN,27,18,0,1,0,7,False,37,0,6.5,4.0,7.71,90.3,7.18,Aston Martin,False
+Sergio Perez,Cadillac,Ferrari,MEX,36,11,6,3,0,16,False,0,0,5.5,4.0,8.53,67.1,8.63,Retired,True

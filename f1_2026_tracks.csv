@@ -1,0 +1,25 @@
+round,circuit,gp,type,length_km,laps,lap_record_sec,avg_speed_kmh,drs_zones_prev,active_aero_zones,overtake_difficulty,tyre_wear,downforce_req,power_sensitivity,key_corner,historical_winner_advantage
+1,Albert Park,Australia,Street-Park,5.278,58,80.235,231,3,4,7,Medium,Medium,7,Turn 1-2,Strategy
+2,Shanghai Intl,China,Permanent,5.451,56,88.196,222,2,3,5,Medium,Medium,8,Turn 14 hairpin,Power
+3,Suzuka,Japan,Permanent,5.807,53,90.983,229,1,3,8,Low,High,6,130R,Aero
+4,Bahrain Intl,Bahrain,Permanent,5.412,57,91.447,213,3,4,4,High,Medium,7,Turn 4,Strategy
+5,Jeddah Corniche,Saudi Arabia,Street,6.174,50,73.013,254,3,5,6,Low,Low,9,Turn 22-27,Power
+6,Miami Intl Autodrome,Miami,Street-Park,5.412,57,88.048,221,3,4,5,Medium,Medium,7,Turn 17,Strategy
+7,Circuit Gilles Villeneuve,Canada,Street-Park,4.361,70,73.078,215,2,3,5,Low,Low,8,Hairpin,Power
+8,Circuit de Monaco,Monaco,Street,3.337,78,74.26,161,1,2,10,Low,High,3,Casino Square,Qualifying
+9,Circuit de Barcelona-Catalunya,Barcelona-Catalunya,Permanent,4.657,66,82.539,203,2,3,7,High,Medium-High,6,Turn 3,Aero
+10,Red Bull Ring,Austria,Permanent,4.318,71,63.582,245,3,4,4,Medium,Low-Medium,8,Turn 3,Power
+11,Silverstone,Great Britain,Permanent,5.891,52,85.731,247,2,3,6,High,High,6,Copse,Aero
+12,Spa-Francorchamps,Belgium,Permanent,7.004,44,105.552,239,2,3,5,Medium,Medium-High,7,Eau Rouge,Power+Aero
+13,Hungaroring,Hungary,Permanent,4.381,70,73.66,214,1,2,8,Medium,High,4,Turn 1,Aero+Strategy
+14,Zandvoort,Netherlands,Permanent,4.259,72,71.097,215,2,3,7,High,High,5,Tarzan,Qualifying
+15,Autodromo Nazionale Monza,Italy,Permanent,5.793,53,80.521,259,2,4,4,Low,Low,10,Ascari,Power
+16,IFEMA Madrid Street Circuit,Spain,Street,5.4,57,95.0,204,0,3,6,Medium,Medium,7,TBC,NEW CIRCUIT
+17,Baku City Circuit,Azerbaijan,Street,6.003,51,103.009,210,2,4,5,Low,Medium,9,Castle Section,Power+Chaos
+18,Marina Bay,Singapore,Street,4.94,62,83.236,192,3,4,6,Medium,High,5,Turn 18,Strategy
+19,Circuit of the Americas,United States,Permanent,5.513,56,95.246,209,2,3,5,High,Medium-High,7,Turn 1,Aero
+20,Autodromo Hermanos Rodriguez,Mexico City,Permanent,4.304,71,78.741,197,3,4,4,Low,Low,8,Peraltada,Power
+21,Autodromo Jose Carlos Pace,Brazil,Permanent,4.309,71,70.54,220,2,3,5,Medium,Medium,7,Turn 1,Weather
+22,Las Vegas Strip Circuit,Las Vegas,Street,6.12,50,88.365,249,3,5,4,Low,Low,9,Koval turn,Power
+23,Lusail Intl Circuit,Qatar,Permanent,5.38,57,81.775,237,2,3,6,Very High,Medium-High,7,Turn 1,Strategy
+24,Yas Marina,Abu Dhabi,Permanent,5.281,58,85.98,221,2,3,5,Low,Medium,7,Turn 9,Power+Strategy
